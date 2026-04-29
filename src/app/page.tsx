@@ -208,6 +208,9 @@ export default function Home() {
           <p className="text-xs text-zinc-600">
             © {new Date().getFullYear()} TribeSystems. All rights reserved.
           </p>
+          <a href="/privacy" className="text-xs text-zinc-500 hover:text-white transition">
+            Privacy Policy
+          </a>
         </div>
       </footer>
     </div>
