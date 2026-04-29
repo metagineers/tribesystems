@@ -21,9 +21,9 @@ export default function Home() {
   };
 
   return (
-    <div className="min-h-screen bg-[#0D0D0D] text-white">
+    <div className="min-h-screen bg-[#202a37] text-white">
       {/* Navigation */}
-      <nav className="fixed top-0 w-full z-50 bg-[#0D0D0D]/90 backdrop-blur-lg border-b border-white/5">
+      <nav className="fixed top-0 w-full z-50 bg-[#202a37]/90 backdrop-blur-lg border-b border-white/5">
         <div className="max-w-7xl mx-auto px-6 py-4 flex items-center justify-between">
           <div className="flex items-center gap-3">
             <Image
@@ -37,7 +37,7 @@ export default function Home() {
           </div>
           <a
             href="#contact"
-            className="px-5 py-2.5 rounded-full bg-[#F5C800] hover:bg-[#0F1923] transition text-sm font-medium"
+            className="px-5 py-2.5 rounded-full bg-[#e06c2a] hover:bg-[#2d3f50] transition text-sm font-medium"
           >
             Contact Us
           </a>
@@ -49,13 +49,13 @@ export default function Home() {
         {/* Background image */}
         <div className="absolute inset-0">
           <Image
-            src="/hero.jpg"
+            src="/hero.png"
             alt="Fans celebrating"
             fill
             className="object-cover opacity-30"
             priority
           />
-          <div className="absolute inset-0 bg-gradient-to-b from-[#0D0D0D]/70 via-[#0D0D0D]/50 to-[#0D0D0D]" />
+          <div className="absolute inset-0 bg-gradient-to-b from-[#202a37]/70 via-[#202a37]/50 to-[#202a37]" />
         </div>
 
         {/* Content */}
@@ -73,7 +73,7 @@ export default function Home() {
           <h1 className="text-5xl md:text-7xl lg:text-8xl font-bold leading-[1.05] tracking-tight mb-8">
             <span className="block">Technology for Brands</span>
             <span className="block">to engage{" "}
-              <span className="text-[#F5C800]">
+              <span className="text-[#e06c2a]">
                 Fans.
               </span>
             </span>
@@ -83,7 +83,7 @@ export default function Home() {
           </p>
           <a
             href="#contact"
-            className="inline-flex px-10 py-4 rounded-full bg-[#F5C800] hover:bg-[#0F1923] transition font-semibold text-lg shadow-lg shadow-orange-900/30"
+            className="inline-flex px-10 py-4 rounded-full bg-[#e06c2a] hover:bg-[#2d3f50] transition font-semibold text-lg shadow-lg shadow-orange-900/30"
           >
             Get in Touch
           </a>
@@ -126,7 +126,7 @@ export default function Home() {
                   required
                   value={form.name}
                   onChange={(e) => setForm({ ...form, name: e.target.value })}
-                  className="w-full px-5 py-3.5 rounded-xl bg-white/5 border border-white/10 focus:border-[#F5C800] focus:outline-none focus:ring-1 focus:ring-[#F5C800] text-sm placeholder:text-zinc-600 transition"
+                  className="w-full px-5 py-3.5 rounded-xl bg-white/5 border border-white/10 focus:border-[#e06c2a] focus:outline-none focus:ring-1 focus:ring-[#e06c2a] text-sm placeholder:text-zinc-600 transition"
                   placeholder="Your name"
                 />
               </div>
@@ -142,7 +142,7 @@ export default function Home() {
                   required
                   value={form.email}
                   onChange={(e) => setForm({ ...form, email: e.target.value })}
-                  className="w-full px-5 py-3.5 rounded-xl bg-white/5 border border-white/10 focus:border-[#F5C800] focus:outline-none focus:ring-1 focus:ring-[#F5C800] text-sm placeholder:text-zinc-600 transition"
+                  className="w-full px-5 py-3.5 rounded-xl bg-white/5 border border-white/10 focus:border-[#e06c2a] focus:outline-none focus:ring-1 focus:ring-[#e06c2a] text-sm placeholder:text-zinc-600 transition"
                   placeholder="you@company.com"
                 />
               </div>
@@ -158,7 +158,7 @@ export default function Home() {
                   required
                   value={form.company}
                   onChange={(e) => setForm({ ...form, company: e.target.value })}
-                  className="w-full px-5 py-3.5 rounded-xl bg-white/5 border border-white/10 focus:border-[#F5C800] focus:outline-none focus:ring-1 focus:ring-[#F5C800] text-sm placeholder:text-zinc-600 transition"
+                  className="w-full px-5 py-3.5 rounded-xl bg-white/5 border border-white/10 focus:border-[#e06c2a] focus:outline-none focus:ring-1 focus:ring-[#e06c2a] text-sm placeholder:text-zinc-600 transition"
                   placeholder="Your company or brand name"
                 />
               </div>
@@ -173,12 +173,12 @@ export default function Home() {
                   required
                   value={form.fanFollowing}
                   onChange={(e) => setForm({ ...form, fanFollowing: e.target.value })}
-                  className="w-full px-5 py-3.5 rounded-xl bg-white/5 border border-white/10 focus:border-[#F5C800] focus:outline-none focus:ring-1 focus:ring-[#F5C800] text-sm text-zinc-300 transition appearance-none cursor-pointer"
+                  className="w-full px-5 py-3.5 rounded-xl bg-white/5 border border-white/10 focus:border-[#e06c2a] focus:outline-none focus:ring-1 focus:ring-[#e06c2a] text-sm text-zinc-300 transition appearance-none cursor-pointer"
                 >
-                  <option value="" className="bg-[#0D0D0D]">Select range</option>
-                  <option value="under-100k" className="bg-[#0D0D0D]">Under 100,000</option>
-                  <option value="100k-1m" className="bg-[#0D0D0D]">100,000 – 1,000,000</option>
-                  <option value="above-1m" className="bg-[#0D0D0D]">Above 1 million</option>
+                  <option value="" className="bg-[#202a37]">Select range</option>
+                  <option value="under-100k" className="bg-[#202a37]">Under 100,000</option>
+                  <option value="100k-1m" className="bg-[#202a37]">100,000 – 1,000,000</option>
+                  <option value="above-1m" className="bg-[#202a37]">Above 1 million</option>
                 </select>
               </div>
 
@@ -192,7 +192,7 @@ export default function Home() {
                   rows={4}
                   value={form.message}
                   onChange={(e) => setForm({ ...form, message: e.target.value })}
-                  className="w-full px-5 py-3.5 rounded-xl bg-white/5 border border-white/10 focus:border-[#F5C800] focus:outline-none focus:ring-1 focus:ring-[#F5C800] text-sm placeholder:text-zinc-600 transition resize-none"
+                  className="w-full px-5 py-3.5 rounded-xl bg-white/5 border border-white/10 focus:border-[#e06c2a] focus:outline-none focus:ring-1 focus:ring-[#e06c2a] text-sm placeholder:text-zinc-600 transition resize-none"
                   placeholder="Tell us about your fan community and what you're looking to achieve..."
                 />
               </div>
@@ -200,7 +200,7 @@ export default function Home() {
               {/* Submit */}
               <button
                 type="submit"
-                className="w-full py-4 rounded-xl bg-[#F5C800] hover:bg-[#0F1923] transition font-semibold text-base shadow-lg shadow-orange-900/20"
+                className="w-full py-4 rounded-xl bg-[#e06c2a] hover:bg-[#2d3f50] transition font-semibold text-base shadow-lg shadow-orange-900/20"
               >
                 Submit
               </button>
