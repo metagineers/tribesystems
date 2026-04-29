@@ -52,7 +52,7 @@ export default function Home() {
             src="/hero.png"
             alt="Fans celebrating"
             fill
-            className="object-cover opacity-30"
+            className="object-cover opacity-60"
             priority
           />
           <div className="absolute inset-0 bg-gradient-to-b from-[#202a37]/70 via-[#202a37]/50 to-[#202a37]" />
