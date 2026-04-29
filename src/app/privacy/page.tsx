@@ -15,11 +15,11 @@ export default function PrivacyPage() {
         <div className="max-w-7xl mx-auto px-6 py-4 flex items-center justify-between">
           <a href="/" className="flex items-center gap-3">
             <Image
-              src="/logo-dark.jpg"
+              src="/logo-light.jpg"
               alt="Tribe"
               width={36}
               height={36}
-              className="rounded-lg"
+              className="rounded-lg mix-blend-lighten"
             />
             <span className="text-xl font-bold tracking-tight">Tribe</span>
           </a>
@@ -67,11 +67,11 @@ export default function PrivacyPage() {
         <div className="max-w-6xl mx-auto flex flex-col md:flex-row items-center justify-between gap-4">
           <a href="/" className="flex items-center gap-2">
             <Image
-              src="/logo-dark.jpg"
+              src="/logo-light.jpg"
               alt="Tribe"
               width={24}
               height={24}
-              className="rounded-md"
+              className="rounded-md mix-blend-lighten"
             />
             <span className="text-sm font-semibold">TribeSystems</span>
           </a>
