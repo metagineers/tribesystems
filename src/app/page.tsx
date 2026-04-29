@@ -15,26 +15,29 @@ export default function Home() {
 
   const handleSubmit = (e: React.FormEvent) => {
     e.preventDefault();
-    // For now, open mailto. Replace with proper form handler later.
     const body = `Name: ${form.name}%0AEmail: ${form.email}%0ACompany: ${form.company}%0AEstimated Fan Following: ${form.fanFollowing}%0AMessage: ${form.message}`;
     window.location.href = `mailto:hello@tribesystems.io?subject=Contact from ${form.company}&body=${body}`;
     setSubmitted(true);
   };
 
   return (
-    <div className="min-h-screen bg-[#0F0A1F] text-white">
+    <div className="min-h-screen bg-[#0A0A0A] text-white">
       {/* Navigation */}
-      <nav className="fixed top-0 w-full z-50 bg-[#0F0A1F]/90 backdrop-blur-lg border-b border-white/5">
+      <nav className="fixed top-0 w-full z-50 bg-[#0A0A0A]/90 backdrop-blur-lg border-b border-white/5">
         <div className="max-w-7xl mx-auto px-6 py-4 flex items-center justify-between">
           <div className="flex items-center gap-3">
-            <div className="w-9 h-9 rounded-lg bg-gradient-to-br from-[#6C2BD9] to-[#00D4AA] flex items-center justify-center">
-              <span className="text-white font-bold text-base">T</span>
-            </div>
+            <Image
+              src="/logo-dark.jpg"
+              alt="Tribe"
+              width={40}
+              height={40}
+              className="rounded-lg"
+            />
             <span className="text-xl font-bold tracking-tight">Tribe</span>
           </div>
           <a
             href="#contact"
-            className="px-5 py-2.5 rounded-full bg-[#6C2BD9] hover:bg-[#8B5CF6] transition text-sm font-medium"
+            className="px-5 py-2.5 rounded-full bg-[#E8732A] hover:bg-[#D4621F] transition text-sm font-medium"
           >
             Contact Us
           </a>
@@ -49,18 +52,28 @@ export default function Home() {
             src="/hero.jpg"
             alt="Fans celebrating"
             fill
-            className="object-cover opacity-40"
+            className="object-cover opacity-30"
             priority
           />
-          <div className="absolute inset-0 bg-gradient-to-b from-[#0F0A1F]/60 via-[#0F0A1F]/40 to-[#0F0A1F]" />
+          <div className="absolute inset-0 bg-gradient-to-b from-[#0A0A0A]/70 via-[#0A0A0A]/50 to-[#0A0A0A]" />
         </div>
 
         {/* Content */}
         <div className="relative z-10 max-w-5xl mx-auto px-6 text-center pt-24">
+          {/* Logo mark */}
+          <div className="mb-10">
+            <Image
+              src="/logo-light.jpg"
+              alt="Tribe"
+              width={120}
+              height={120}
+              className="mx-auto rounded-2xl"
+            />
+          </div>
           <h1 className="text-5xl md:text-7xl lg:text-8xl font-bold leading-[1.05] tracking-tight mb-8">
-            <span className="block">Tribe builds Technology</span>
-            <span className="block">for Brands to engage{" "}
-              <span className="bg-gradient-to-r from-[#6C2BD9] to-[#00D4AA] bg-clip-text text-transparent">
+            <span className="block">Technology for Brands</span>
+            <span className="block">to engage{" "}
+              <span className="text-[#E8732A]">
                 Fans.
               </span>
             </span>
@@ -70,7 +83,7 @@ export default function Home() {
           </p>
           <a
             href="#contact"
-            className="inline-flex px-10 py-4 rounded-full bg-gradient-to-r from-[#6C2BD9] to-[#8B5CF6] hover:opacity-90 transition font-semibold text-lg shadow-lg shadow-purple-900/30"
+            className="inline-flex px-10 py-4 rounded-full bg-[#E8732A] hover:bg-[#D4621F] transition font-semibold text-lg shadow-lg shadow-orange-900/30"
           >
             Get in Touch
           </a>
@@ -113,7 +126,7 @@ export default function Home() {
                   required
                   value={form.name}
                   onChange={(e) => setForm({ ...form, name: e.target.value })}
-                  className="w-full px-5 py-3.5 rounded-xl bg-white/5 border border-white/10 focus:border-[#6C2BD9] focus:outline-none focus:ring-1 focus:ring-[#6C2BD9] text-sm placeholder:text-zinc-600 transition"
+                  className="w-full px-5 py-3.5 rounded-xl bg-white/5 border border-white/10 focus:border-[#E8732A] focus:outline-none focus:ring-1 focus:ring-[#E8732A] text-sm placeholder:text-zinc-600 transition"
                   placeholder="Your name"
                 />
               </div>
@@ -129,7 +142,7 @@ export default function Home() {
                   required
                   value={form.email}
                   onChange={(e) => setForm({ ...form, email: e.target.value })}
-                  className="w-full px-5 py-3.5 rounded-xl bg-white/5 border border-white/10 focus:border-[#6C2BD9] focus:outline-none focus:ring-1 focus:ring-[#6C2BD9] text-sm placeholder:text-zinc-600 transition"
+                  className="w-full px-5 py-3.5 rounded-xl bg-white/5 border border-white/10 focus:border-[#E8732A] focus:outline-none focus:ring-1 focus:ring-[#E8732A] text-sm placeholder:text-zinc-600 transition"
                   placeholder="you@company.com"
                 />
               </div>
@@ -145,7 +158,7 @@ export default function Home() {
                   required
                   value={form.company}
                   onChange={(e) => setForm({ ...form, company: e.target.value })}
-                  className="w-full px-5 py-3.5 rounded-xl bg-white/5 border border-white/10 focus:border-[#6C2BD9] focus:outline-none focus:ring-1 focus:ring-[#6C2BD9] text-sm placeholder:text-zinc-600 transition"
+                  className="w-full px-5 py-3.5 rounded-xl bg-white/5 border border-white/10 focus:border-[#E8732A] focus:outline-none focus:ring-1 focus:ring-[#E8732A] text-sm placeholder:text-zinc-600 transition"
                   placeholder="Your company or brand name"
                 />
               </div>
@@ -160,12 +173,12 @@ export default function Home() {
                   required
                   value={form.fanFollowing}
                   onChange={(e) => setForm({ ...form, fanFollowing: e.target.value })}
-                  className="w-full px-5 py-3.5 rounded-xl bg-white/5 border border-white/10 focus:border-[#6C2BD9] focus:outline-none focus:ring-1 focus:ring-[#6C2BD9] text-sm text-zinc-300 transition appearance-none cursor-pointer"
+                  className="w-full px-5 py-3.5 rounded-xl bg-white/5 border border-white/10 focus:border-[#E8732A] focus:outline-none focus:ring-1 focus:ring-[#E8732A] text-sm text-zinc-300 transition appearance-none cursor-pointer"
                 >
-                  <option value="" className="bg-[#0F0A1F]">Select range</option>
-                  <option value="under-100k" className="bg-[#0F0A1F]">Under 100,000</option>
-                  <option value="100k-1m" className="bg-[#0F0A1F]">100,000 – 1,000,000</option>
-                  <option value="above-1m" className="bg-[#0F0A1F]">Above 1 million</option>
+                  <option value="" className="bg-[#0A0A0A]">Select range</option>
+                  <option value="under-100k" className="bg-[#0A0A0A]">Under 100,000</option>
+                  <option value="100k-1m" className="bg-[#0A0A0A]">100,000 – 1,000,000</option>
+                  <option value="above-1m" className="bg-[#0A0A0A]">Above 1 million</option>
                 </select>
               </div>
 
@@ -179,7 +192,7 @@ export default function Home() {
                   rows={4}
                   value={form.message}
                   onChange={(e) => setForm({ ...form, message: e.target.value })}
-                  className="w-full px-5 py-3.5 rounded-xl bg-white/5 border border-white/10 focus:border-[#6C2BD9] focus:outline-none focus:ring-1 focus:ring-[#6C2BD9] text-sm placeholder:text-zinc-600 transition resize-none"
+                  className="w-full px-5 py-3.5 rounded-xl bg-white/5 border border-white/10 focus:border-[#E8732A] focus:outline-none focus:ring-1 focus:ring-[#E8732A] text-sm placeholder:text-zinc-600 transition resize-none"
                   placeholder="Tell us about your fan community and what you're looking to achieve..."
                 />
               </div>
@@ -187,7 +200,7 @@ export default function Home() {
               {/* Submit */}
               <button
                 type="submit"
-                className="w-full py-4 rounded-xl bg-gradient-to-r from-[#6C2BD9] to-[#8B5CF6] hover:opacity-90 transition font-semibold text-base shadow-lg shadow-purple-900/20"
+                className="w-full py-4 rounded-xl bg-[#E8732A] hover:bg-[#D4621F] transition font-semibold text-base shadow-lg shadow-orange-900/20"
               >
                 Submit
               </button>
@@ -200,16 +213,20 @@ export default function Home() {
       <footer className="py-10 px-6 border-t border-white/5">
         <div className="max-w-6xl mx-auto flex flex-col md:flex-row items-center justify-between gap-4">
           <div className="flex items-center gap-2">
-            <div className="w-6 h-6 rounded-md bg-gradient-to-br from-[#6C2BD9] to-[#00D4AA] flex items-center justify-center">
-              <span className="text-white font-bold text-xs">T</span>
-            </div>
+            <Image
+              src="/logo-dark.jpg"
+              alt="Tribe"
+              width={24}
+              height={24}
+              className="rounded-md"
+            />
             <span className="text-sm font-semibold">TribeSystems</span>
           </div>
           <p className="text-xs text-zinc-600">
             © {new Date().getFullYear()} TribeSystems. All rights reserved.
           </p>
           <a href="/privacy" className="text-xs text-zinc-500 hover:text-white transition">
-            Privacy Policy
+            Privacy
           </a>
         </div>
       </footer>
