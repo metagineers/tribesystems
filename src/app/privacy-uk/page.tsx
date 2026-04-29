@@ -12,7 +12,7 @@ export default function PrivacyUKPage() {
       <nav className="fixed top-0 w-full z-50 bg-[#0F0A1F]/90 backdrop-blur-lg border-b border-white/5">
         <div className="max-w-7xl mx-auto px-6 py-4 flex items-center justify-between">
           <a href="/" className="flex items-center gap-3">
-            <div className="w-9 h-9 rounded-lg bg-gradient-to-br from-[#E8732A] to-[#D4621F] flex items-center justify-center">
+            <div className="w-9 h-9 rounded-lg bg-gradient-to-br from-[#e06c2a] to-[#202a37] flex items-center justify-center">
               <span className="text-white font-bold text-base">T</span>
             </div>
             <span className="text-xl font-bold tracking-tight">Tribe</span>
@@ -118,7 +118,7 @@ export default function PrivacyUKPage() {
             </ul>
             <p>
               If you would like further information about data protection, you can visit the Information Commissioner&apos;s Office (ICO) at{" "}
-              <a href="https://ico.org.uk" className="text-[#E8732A] hover:underline">ico.org.uk</a>.
+              <a href="https://ico.org.uk" className="text-[#e06c2a] hover:underline">ico.org.uk</a>.
               The ICO is the UK&apos;s independent authority set up to uphold information rights in the public interest and data privacy for individuals.
             </p>
           </section>
@@ -130,7 +130,7 @@ export default function PrivacyUKPage() {
             </p>
             <p>
               The personal information we have collected from you will be shared with fraud prevention agencies who will use it to prevent fraud and money laundering and to verify your identity. If fraud is detected, you could be refused certain services, finance, or employment. Further details can be found by visiting{" "}
-              <a href="https://www.cifas.org.uk/fpn" className="text-[#E8732A] hover:underline">www.cifas.org.uk/fpn</a>.
+              <a href="https://www.cifas.org.uk/fpn" className="text-[#e06c2a] hover:underline">www.cifas.org.uk/fpn</a>.
             </p>
           </section>
 
@@ -179,7 +179,7 @@ export default function PrivacyUKPage() {
             </p>
             <p>
               Email:{" "}
-              <a href="mailto:privacy@tribesystems.io" className="text-[#E8732A] hover:underline">
+              <a href="mailto:privacy@tribesystems.io" className="text-[#e06c2a] hover:underline">
                 privacy@tribesystems.io
               </a>
             </p>
@@ -191,7 +191,7 @@ export default function PrivacyUKPage() {
       <footer className="py-10 px-6 border-t border-white/5">
         <div className="max-w-6xl mx-auto flex flex-col md:flex-row items-center justify-between gap-4">
           <a href="/" className="flex items-center gap-2">
-            <div className="w-6 h-6 rounded-md bg-gradient-to-br from-[#E8732A] to-[#D4621F] flex items-center justify-center">
+            <div className="w-6 h-6 rounded-md bg-gradient-to-br from-[#e06c2a] to-[#202a37] flex items-center justify-center">
               <span className="text-white font-bold text-xs">T</span>
             </div>
             <span className="text-sm font-semibold">TribeSystems</span>

@@ -7,12 +7,12 @@ export const metadata: Metadata = {
 
 export default function PrivacyPage() {
   return (
-    <div className="min-h-screen bg-[#0A0A0A] text-white">
+    <div className="min-h-screen bg-[#010101] text-white">
       {/* Navigation */}
-      <nav className="fixed top-0 w-full z-50 bg-[#0A0A0A]/90 backdrop-blur-lg border-b border-white/5">
+      <nav className="fixed top-0 w-full z-50 bg-[#010101]/90 backdrop-blur-lg border-b border-white/5">
         <div className="max-w-7xl mx-auto px-6 py-4 flex items-center justify-between">
           <a href="/" className="flex items-center gap-3">
-            <div className="w-9 h-9 rounded-lg bg-gradient-to-br from-[#E8732A] to-[#D4621F] flex items-center justify-center">
+            <div className="w-9 h-9 rounded-lg bg-gradient-to-br from-[#e06c2a] to-[#202a37] flex items-center justify-center">
               <span className="text-white font-bold text-base">T</span>
             </div>
             <span className="text-xl font-bold tracking-tight">Tribe</span>
@@ -142,7 +142,7 @@ export default function PrivacyPage() {
             </p>
             <p>
               Email:{" "}
-              <a href="mailto:privacy@tribesystems.io" className="text-[#D4621F] hover:underline">
+              <a href="mailto:privacy@tribesystems.io" className="text-[#202a37] hover:underline">
                 privacy@tribesystems.io
               </a>
             </p>
@@ -154,7 +154,7 @@ export default function PrivacyPage() {
       <footer className="py-10 px-6 border-t border-white/5">
         <div className="max-w-6xl mx-auto flex flex-col md:flex-row items-center justify-between gap-4">
           <a href="/" className="flex items-center gap-2">
-            <div className="w-6 h-6 rounded-md bg-gradient-to-br from-[#E8732A] to-[#D4621F] flex items-center justify-center">
+            <div className="w-6 h-6 rounded-md bg-gradient-to-br from-[#e06c2a] to-[#202a37] flex items-center justify-center">
               <span className="text-white font-bold text-xs">T</span>
             </div>
             <span className="text-sm font-semibold">TribeSystems</span>

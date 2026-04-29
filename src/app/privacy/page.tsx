@@ -9,9 +9,9 @@ export const metadata: Metadata = {
 
 export default function PrivacyPage() {
   return (
-    <div className="min-h-screen bg-[#0A0A0A] text-white">
+    <div className="min-h-screen bg-[#010101] text-white">
       {/* Navigation */}
-      <nav className="fixed top-0 w-full z-50 bg-[#0A0A0A]/90 backdrop-blur-lg border-b border-white/5">
+      <nav className="fixed top-0 w-full z-50 bg-[#010101]/90 backdrop-blur-lg border-b border-white/5">
         <div className="max-w-7xl mx-auto px-6 py-4 flex items-center justify-between">
           <a href="/" className="flex items-center gap-3">
             <Image
@@ -36,10 +36,10 @@ export default function PrivacyPage() {
         <div className="grid md:grid-cols-2 gap-6">
           <Link
             href="/privacy-uk"
-            className="p-8 rounded-2xl bg-white/[0.02] border border-white/10 hover:border-[#E8732A]/40 transition group"
+            className="p-8 rounded-2xl bg-white/[0.02] border border-white/10 hover:border-[#e06c2a]/40 transition group"
           >
             <div className="text-3xl mb-4">🇬🇧</div>
-            <h2 className="text-xl font-semibold mb-2 group-hover:text-[#E8732A] transition">
+            <h2 className="text-xl font-semibold mb-2 group-hover:text-[#e06c2a] transition">
               UK Privacy Policy
             </h2>
             <p className="text-sm text-zinc-500">
@@ -49,10 +49,10 @@ export default function PrivacyPage() {
 
           <Link
             href="/privacy-eu"
-            className="p-8 rounded-2xl bg-white/[0.02] border border-white/10 hover:border-[#E8732A]/40 transition group"
+            className="p-8 rounded-2xl bg-white/[0.02] border border-white/10 hover:border-[#e06c2a]/40 transition group"
           >
             <div className="text-3xl mb-4">🇪🇺</div>
-            <h2 className="text-xl font-semibold mb-2 group-hover:text-[#E8732A] transition">
+            <h2 className="text-xl font-semibold mb-2 group-hover:text-[#e06c2a] transition">
               EU Privacy Policy
             </h2>
             <p className="text-sm text-zinc-500">
