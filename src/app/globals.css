@@ -1,9 +1,145 @@
 @import "tailwindcss";
 
+@theme {
+  --color-navy: #202a37;
+  --color-ink: #010101;
+  --color-cream: #ece6dc;
+  --color-navy-mid: #2d3f50;
+  --color-ember: #e06c2a;
+
+  --font-display: var(--font-bricolage), "Arial Black", sans-serif;
+  --font-body: var(--font-instrument), Arial, Helvetica, sans-serif;
+  --font-mono: var(--font-plex-mono), "SF Mono", Menlo, monospace;
+
+  --ease-out-expo: cubic-bezier(0.16, 1, 0.3, 1);
+
+  --animate-marquee: marquee 32s linear infinite;
+
+  @keyframes marquee {
+    from {
+      transform: translateX(0);
+    }
+    to {
+      transform: translateX(-50%);
+    }
+  }
+
+  @keyframes cue {
+    from {
+      transform: translateY(-100%);
+    }
+    to {
+      transform: translateY(220%);
+    }
+  }
+}
+
+/* Legacy brand vars (kept for privacy pages / reference) */
 :root {
   --tribe-dark-navy: #202a37;
   --tribe-near-black: #010101;
   --tribe-cream: #ece6dc;
   --tribe-mid-navy: #2d3f50;
   --tribe-orange: #e06c2a;
+}
+
+html {
+  background: var(--color-ink);
+  color: var(--color-cream);
+}
+
+body {
+  min-height: 100dvh;
+  overflow-x: clip;
+}
+
+::selection {
+  background: var(--color-ember);
+  color: var(--color-ink);
+}
+
+:focus-visible {
+  outline: 2px solid var(--color-ember);
+  outline-offset: 3px;
+  border-radius: 2px;
+}
+
+/* Thin, brand-toned scrollbar */
+@media (pointer: fine) {
+  ::-webkit-scrollbar {
+    width: 10px;
+  }
+  ::-webkit-scrollbar-track {
+    background: var(--color-ink);
+  }
+  ::-webkit-scrollbar-thumb {
+    background: var(--color-navy-mid);
+    border-radius: 5px;
+    border: 2px solid var(--color-ink);
+  }
+  ::-webkit-scrollbar-thumb:hover {
+    background: var(--color-ember);
+  }
+}
+
+/* Lenis smooth-scroll host styles */
+html.lenis,
+html.lenis body {
+  height: auto;
+}
+.lenis.lenis-smooth {
+  scroll-behavior: auto !important;
+}
+.lenis.lenis-smooth [data-lenis-prevent] {
+  overscroll-behavior: contain;
+}
+.lenis.lenis-stopped {
+  overflow: hidden;
+}
+
+/* Outlined display text (verticals numerals etc.) */
+.text-outline {
+  -webkit-text-stroke: 1px color-mix(in srgb, var(--color-cream) 28%, transparent);
+  color: transparent;
+}
+
+/* View transitions: quick crossfade between routes */
+::view-transition-old(root) {
+  animation: 180ms ease-in both vt-fade reverse;
+}
+::view-transition-new(root) {
+  animation: 240ms ease-out 60ms both vt-fade;
+}
+@keyframes vt-fade {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+
+/* Nav stays anchored during route transitions */
+::view-transition-group(site-nav) {
+  animation: none;
+  z-index: 100;
+}
+::view-transition-old(site-nav) {
+  display: none;
+}
+::view-transition-new(site-nav) {
+  animation: none;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  ::view-transition-old(*),
+  ::view-transition-new(*),
+  ::view-transition-group(*) {
+    animation-duration: 0s !important;
+    animation-delay: 0s !important;
+  }
+  .animate-marquee,
+  [class*="animate-"] {
+    animation: none !important;
+  }
 }
