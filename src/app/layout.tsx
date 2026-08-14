@@ -44,13 +44,13 @@ export const metadata: Metadata = {
     url: site.domain,
     title: "TribeSystems — Technology for Brands to engage Fans",
     description: site.description,
-    images: [{ url: "/card.jpg", width: 1200, height: 630 }],
+    images: [{ url: "/social-stadium-crowd.jpg", width: 1200, height: 630 }],
   },
   twitter: {
     card: "summary_large_image",
     title: "TribeSystems — Technology for Brands to engage Fans",
     description: site.description,
-    images: ["/card.jpg"],
+    images: ["/social-stadium-crowd.jpg"],
   },
 };
 
