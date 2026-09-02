@@ -1113,4 +1113,3 @@ FX MARGIN               per payment        1.65%     1.15%     0.65%
 ATM                 per transaction         3.60      3.00      1.80
 CHARGEBACK           per chargeback        36.00     30.00     18.00
 ACCOUNT FEE                 monthly         6.00     25.00     60.00
-TAMPERED
