@@ -70,6 +70,11 @@ export default function Footer() {
                     Privacy (UK)
                   </Link>
                 </li>
+                <li>
+                  <Link href="/prize_draw" className="text-cream/70 hover:text-ember">
+                    Prize Draw Terms
+                  </Link>
+                </li>
               </ul>
             </div>
           </div>
