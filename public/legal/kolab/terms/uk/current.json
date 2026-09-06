@@ -3,7 +3,10 @@
   "version": "1.0",
   "effectiveFrom": "2026-09-01",
   "url": "/legal/kolab/terms/uk/1.0.txt",
-  "sha256": "ef000c77b8d71df0ec07f23a3808a1ea4d68b63fe0acbd170b348a32becf272c",
+  "sha256": "8a0761519b3b6c148b1b2048678ef0c2b93824d9ee9d064976f0cf58ba99aa9f",
   "noticePeriodDays": 62,
-  "approval": "richard_final_terms_2026_09_01"
+  "approval": "richard_terms_2026_09_06",
+  "supersededVersions": [
+    "1.0.superseded-20260906T233559Z.txt"
+  ]
 }
