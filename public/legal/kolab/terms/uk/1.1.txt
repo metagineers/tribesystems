@@ -1,0 +1,2475 @@
+EQUALS MONEY GENERAL TERMS AND CONDITIONS - RETAIL (UK)
+
+Under an agreement with Tribe Ltd, ("Programme Partner") who are contracted with Veloce Esports Limited to run the "Kolab from Veloce" fan-super-app, we provide You with access to card and payment services. The Programme Partner acts as a programme partner and is not a regulated financial services provider. You may have a separate agreement with the Programme Partner that governs your relationship with them. We are not a party to that agreement and are not responsible for its terms or performance.
+
+1. These Terms
+
+1.1 These Equals Money General Terms and Conditions (the "Terms") form a legal agreement between Equals Money PLC, Equals Money UK Limited, and Equals Money International Limited (together, "Equals Money", "us" or "we"); and you or the entity you represent ("you" or "your"), for the purpose of providing you with our Services.
+
+1.2 These Terms apply from the date you first access or use the Services (the "Commencement Date") and govern your use of the Services.
+
+1.3 By you using the Services, you confirm that you accept and agree to these Terms. If you do not agree to these Terms, you may not use the Services.
+
+1.4 The provider of the Services under these Terms shall be Equals Money PLC, Equals Money UK Limited and/or Equals Money International Limited (as notified to you from time to time).
+
+1.5 We may subcontract our obligations under these Terms to third parties as permitted under Applicable Laws.
+
+1.6 You should download a copy of these Terms for future reference. You can always download a copy of the most current version of these Terms from our website. You can also request a copy of these Terms from us at any time.
+
+2. Definitions
+
+2.1 Capitalised terms that are not otherwise defined in these Terms have the meanings given below unless the context otherwise requires.
+
+"Account Details"
+
+has the meaning given in Section 11.5 of these Terms.
+
+"Additional Services"
+
+means the services described in Section 4.1 of these Terms.
+
+"AML Laws"
+
+means the UK Money Laundering, Terrorist Financing and Transfer of Funds (Information on the Payer) Regulations 2017, as amended, the U.S. Foreign Corrupt Practices Act, as amended, the Canadian Corruption of Foreign Officials Act, as amended and any U.K. anti-corruption laws (including the Bribery Act 2010).
+
+"APP Scam"
+
+has the meaning given in Section 18.1 of these Terms.
+
+"Applicable Laws"
+
+means any applicable law, regulation, rule, policy, judgment, decree, order or directive, at a state or local level, including, without limitation, AML Laws, Sanctions Laws, any regulatory guidelines or interpretations or regulatory permits and licenses issued by governmental or regulatory authorities having jurisdiction over you or us, that are applicable to you or us or your or our business or which either you or us are otherwise subject to, in each case in force from time to time.
+
+"Authorised User"
+
+has the meaning given in Section 10.1 of these Terms.
+
+"Business Day"
+
+means a day other than a Saturday, Sunday or public holiday in England on which banks are open for normal banking business in London, United Kingdom.
+
+"Card"
+
+means Mastercard and/or Visa branded cards issued to you in accordance with the Card Service Terms, as applicable.
+
+"Card Service"
+
+has the meaning given in Section 4.1.1 of these Terms.
+
+"Card Service Terms"
+
+means the terms applicable to the Card Service set out in Schedule 1.
+
+"Card Transaction"
+
+has the meaning given in the Card Service Terms.
+
+"CHAPS"
+
+means the Clearing House Automated Payment System in the UK.
+
+"Commencement Date"
+
+has the meaning given in Section 1.2 of these Terms.
+
+"Content Service Terms"
+
+means the terms set out in Schedule 8, which are provided by Tribe and not by us.
+
+"DD Information"
+
+has the meaning given in Section 6.1 of these Terms.
+
+"Electronic Money Regulations 2011"
+
+means the UK Electronic Money Regulations 2011 (Statutory Instrument 2011/99) as amended from time to time.
+
+"Engage Service Terms"
+
+means the terms set out in Schedule 7, which are provided by Tribe and not by us.
+
+"Equals Money Platform"
+
+means the technology platform through which you can access and use the Services.
+
+"EUR"
+
+means Euro, the official currency of the Eurozone.
+
+"Eurozone"
+
+means those member states of the EU that have adopted EUR as their official currency.
+
+"Faster Payments"
+
+means the Faster Payments Service for electronic sterling payments in the UK.
+
+"Fee Changes"
+
+has the meaning given in Section 9.4 of these Terms.
+
+"Fees and Charges"
+
+means the fees and charges applicable to the Services as set out in Annex A of these Terms.
+
+"FOS"
+
+has the meaning given in Section 28.3 of these Terms.
+
+"FSCS"
+
+has the meaning given in Section 19.3 of these Terms.
+
+"Funding Method"
+
+means each of the methods for adding funds to your Payment Account that we allow from time to time.
+
+"FX Conversion"
+
+has the meaning given in the FX Service Terms.
+
+"FX Service"
+
+has the meaning given in 4.1.2 of these Terms.
+
+"FX Service Terms"
+
+means the terms applicable to the FX Service set out in Schedule 2.
+
+"FX Transaction"
+
+has the meaning given in the FX Service Terms.
+
+"GBP"
+
+means British pounds sterling, the official currency of the UK.
+
+"Insolvent"
+
+means, in respect of a person (including for the avoidance of doubt a corporate person), that that person is unable to pay its debts as defined in s.123 (1) or (2) of the Insolvency Act 1986 EXCEPT THAT in the interpretation of this definition: (i) the words "it is proved to the satisfaction of the court that" in subsections (1)(e) and (2) of section 123 shall be deemed to be deleted; and (ii) a person shall not be deemed to be unable to pay its debts if any demand under section 123(1)(a) or section 268(1)(a) is being person in good faith by such person and such person has adequate funds to discharge the amount of such demand or if any such demand is satisfied before the expiration of twenty-one (21) days from the date on which it is made.
+
+"Intellectual Property"
+
+means all patents, patentable rights, copyright, design rights, utility models, trade marks (whether or not any of the above are registered), trade names, rights in domain names, rights in inventions, rights in data, database rights, rights in know-how and confidential information, and all other intellectual and industrial property and similar or analogous rights existing under the laws of any country and all pending applications for and right to apply for or register the same (present, future and contingent, and including all renewals, extensions, revivals and all accrued rights of action).
+
+"Marketing Service Terms"
+
+means the terms set out in Schedule 4, which are provided by Tribe and not by us.
+
+"Mastercard"
+
+means Mastercard International.
+
+"Network"
+
+means any scheme governing the issuance, use and acceptance of a Payment Method.
+
+"Network Rules"
+
+means all applicable rules and regulations of Networks and operating guidelines, policies, procedures, manuals, announcements, bulletins and other requirements issued by the Networks from time to time.
+
+"Payment Account"
+
+means a payment account provided to you in accordance with these Terms.
+
+"Payment Method"
+
+means any Card or alternative (i.e. non-card) payment method used to carry out payments.
+
+"Payment Request"
+
+has the meaning given in 13.1 of these Terms.
+
+"Personal Data"
+
+any information about or relating to an identified or reasonably identifiable individual, including any information that falls within the meaning of "personal information" or "personal data" in the General Data Protection Regulation (EU) 2016/679 or the Data Protection Act 2018, including some or more of an individual's name, mobile phone number, address, date of birth, citizenship, place of birth, email addresses, identity documents (and their details), credit reference data, employment data, alternative phone numbers, social accounts, instant message addresses, device and fingerprint characteristics (whether collected using internal or third party applications) and any other details as agreed from time to time.
+
+"Prize Draw Terms"
+
+means the Kolab Master Prize Draw Terms and Conditions, together with the Addendum for each prize draw, published at www.tribesystems.io/prize_draw/ and in the App, as amended from time to time. The Prize Draw Terms are provided by Tribe, form a separate agreement, and are not part of these Terms.
+
+"Programme Partner Platform"
+
+means the technology platform through which you can access and use the Services.
+
+"PSRs"
+
+means the UK Payment Services Regulations 2017 (Statutory Instrument 2017/752) as amended from time to time.
+
+"Regulatory Authority"
+
+means any governmental or regulatory authority, and/or any self-regulatory authority, governmental department, agency, commission, board, tribunal, crown corporation, or court or other law, rule or regulation making entity having jurisdiction over any of us or you and/or our businesses or any part or subdivision thereof in any territory in which the Services are made available or any local authority, district or other subdivision thereof (including any Tax Authority and, in respect of the United Kingdom, the Financial Conduct Authority, the Office of Fair Trading and the Office of the Information Commissioner) and any body which succeeds or replaces them.
+
+"Reversal"
+
+means the reversal, return or claw back for any reason of funds received by you including where initiated by you in relation to funds added by you to your Payment Account with a Funding Method.
+
+"Rewards Service Terms"
+
+means the terms set out in Schedule 5, which are provided by Tribe and not by us.
+
+"Sanctions Laws"
+
+means any economic sanctions laws, regulations, embargoes or restrictive measures including the Sanctions List administered, enacted or enforced by: (i) the United States government; (ii) the United Nations; (iii) the European Union; (iv) the United Kingdom; or (v) the respective governmental institutions and agencies of any of the foregoing, including without limitation, the Office of Foreign Assets Control of the US Department of Treasury ("OFAC"), the United States Department of State, and Her Majesty's Treasury (together "Sanctions Authorities").
+
+"Sanctions List"
+
+means the "Specially Designated Nationals and Blocked Persons" list issued by OFAC, the Consolidated List of Financial Sanctions Targets issued by Her Majesty's Treasury, or any similar list issued or maintained or made public by any of the Sanctions Authorities.
+
+"Security Credentials"
+
+means any password, PIN, access code, answer to security questions or similar that enables you to use or access the Services or the Equals Money Platform, or verify your, or an Authorised User's, identity to us.
+
+"SEPA"
+
+means the Single Euro Payment Area.
+
+"Service Provider"
+
+means the entity identified as the Service Provider in the relevant Service Schedule.
+
+"Service Schedule"
+
+means each service schedule attached to, and forming part of, these Terms.
+
+"Services"
+
+means the Services we provide in accordance with these Terms including (unless the context otherwise requires) any Additional Services you have been approved for.
+
+"Shop Service Terms"
+
+means the terms set out in Schedule 6, which are provided by Tribe and not by us.
+
+"Subscription Service Terms"
+
+means the terms set out in Schedule 3, which are provided by Tribe and not by us.
+
+"Supported Currency"
+
+means a currency in which a Payment Account may be denominated and in which we allow you to make payments or FX Transactions from time to time.
+
+"Tax" or "Taxes"
+
+"Tax Authority"
+
+means any tax, levy, impost, duty or other charge, fee, deduction or withholding of a similar nature, and any penalty, surcharge or interest payable in connection with the failure to pay, or delay in paying, any of these.
+
+means any authority or person, whether of the UK, part of the UK or elsewhere, competent to impose, assess or collect any Tax.
+
+"Tribe"
+
+means Tribe Ltd, a company incorporated in Jersey with registered number 142759 whose registered office is at Beauport House, L'Avenue de la Commune, St Peter, Jersey JE3 7BY being the Programme Partner referred to at the front of these Terms.
+
+"UK"
+
+"VAT"
+
+means the United Kingdom of Great Britain and Northern Ireland.
+
+means any Tax in the nature of goods and services tax, consumption tax, supply or value added tax, sales and use tax, goods and services tax (GST) turnover tax, business tax (including gross receipts or gross business receipt tax) or any similar Tax in any jurisdiction.
+
+"Visa"
+
+means Visa Europe Limited.
+
+2.2 Unless the context otherwise requires, use of the singular includes the plural and vice versa.
+
+2.3 A reference to a statute or statutory provision is a reference to it as amended, extended or re-enacted from time to time.
+
+2.4 References to you or Equals Money will include any successors, permitted assignees or transferees unless stated otherwise.
+
+3. Use of the Services and Regulatory Information
+
+3.1 Equals Money will provide the Services in accordance with these Terms.
+
+3.2 The provider of the Payment Account and related payment services in accordance with these Terms shall be Equals Money PLC, Equals Money UK Limited and/or Equals Money International Limited (as notified to you from time to time).
+
+3.2.1 Equals Money PLC is a public limited company registered in England & Wales under company number 05539698, and whose registered office address is at 3rd Floor, Vintners Place, 68 Upper Thames Street, London, EC4V 3BJ. Equals Money PLC is authorised as a payment institution by the Financial Conduct Authority under the PSRs (firm reference number 488396).
+
+3.2.2 Equals Money UK Limited is a private limited company registered in England & Wales under company number 06268340, and whose registered office address is at 3rd Floor, Vintners Place, 68 Upper Thames Street, London, EC4V 3BJ. Equals Money UK Limited is authorised as a payment institution by the Financial Conduct Authority under the PSRs (firm reference number 504547).
+
+3.2.3 Equals Money International Limited is a private limited company registered in England & Wales under company number 09558664, and whose registered office address is at 3rd Floor, Vintners Place, 68 Upper Thames Street, London, EC4V 3BJ. Equals Money International Limited is authorised as an electronic money institution by the Financial Conduct Authority under the Electronic Money Regulations 2011 (firm reference number 900493) for the provision of payment services and issuance of electronic money.
+
+3.3 Subject to Section 3.4 of these Terms, you may use the Services and any relevant Additional Services from the Commencement Date.
+
+3.4 You may not use the Services unless and until you have provided us with any DD Information we have requested in accordance with Section 6 of these Terms.
+
+4. Additional Services
+
+4.1 If you have been approved to receive any of the following additional services ("Additional Services"), the applicable Service Schedule shall apply in addition to these Terms:
+
+4.1.1 the "Card Service" - the issuance of Cards and related payment services in accordance with the Card Service Terms;
+
+4.1.2 the "FX Service" - the provision of spot FX transactions and FX forward transactions in accordance with the FX Service Terms; and
+
+4.1.3 the "Subscription Service" the "Marketing Service" the "Shop Service" the "Engage Service" the "Content Service" and the "Rewards Service" - provided by Tribe in accordance with the Subscription Service Terms, the Marketing Service Terms, the Shop Service Terms, the Engage Service Terms, the Content Service Terms and the Rewards Service Terms respectively. These are Tribe's services and not ours. We are not a party to them and are not responsible for their performance.
+
+5. Service Schedules and Order of Precedence
+
+5.1 The Service Schedules set out additional terms that apply to particular Additional Services. If these Terms conflict with any provision of a Service Schedule, the provision of the Service Schedule shall prevail, but only in relation to the particular Service to which that Service Schedule applies. Otherwise, these Terms shall prevail.
+
+6. Due Diligence Information
+
+6.1 You shall provide us with any information "DD Information" we request from time to time for the purposes of conducting customer due diligence checks and/or ongoing monitoring as required under Applicable Laws. This will include, but is not limited to, any information we require to verify your identity and source of funds in accordance with AML Laws and any Personal Data you provide as part of this process shall be held in accordance with Applicable Laws.
+
+6.2 You shall notify us of any changes to DD Information as soon as reasonably practicable.
+
+6.3 You agree that we may provide DD Information to Networks or other third parties for the purposes of complying with Network Rules or Applicable Laws.
+
+6.4 You agree that your failure to comply with this Section 6 will be a material breach of these Terms and we shall have the right to terminate these Terms.
+
+7. Our obligations
+
+We shall provide the Services and the Additional Services in accordance with these Terms and the terms of any applicable Service Schedule, Applicable Laws and the Network Rules.
+
+8. Your obligations
+
+8.1 You shall at all times comply with:
+
+8.1.1 these Terms and the terms of any applicable Service Schedule;
+
+8.1.2 Applicable Laws; and
+
+8.1.3 the Network Rules.
+
+8.2 You shall pay the Fees and Charges when they become due.
+
+8.3 You acknowledge and agree that if you do not do so, this shall be a material breach of these Terms and we shall have the right to terminate these Terms.
+
+9. Fees and Charges
+
+9.1 The Fees and Charges applicable to the Services are set out in Annex A of these Terms.
+
+9.2 We may refuse to process your transaction(s) or provide any other Services to you until we have received the Fees and Charges from you (or any other amount due and payable to us).
+
+9.3 You agree that we are authorised to deduct our Fees and Charges, any applicable Reversal amounts, or any amounts you owe us from your Payment Account. If you do not have sufficient funds in your Payment Account to cover these amounts, we may refuse to execute pending or future transactions or provide any Services to you and we may deduct funds sent to us for Services in the future.
+
+10. Authorised Users
+
+10.1 You may appoint authorised users (each an "Authorised User") to use and access information about the Services under these Terms on your behalf.
+
+10.2 You must notify us of each Authorised User by taking the relevant steps as shown on the Equals Money Platform.
+
+10.3 You must inform us promptly if any detail previously provided about an Authorised User changes or is incorrect.
+
+10.4 You shall ensure that your Authorised Users comply with these Terms and the terms of any applicable Service Schedule, and you shall be responsible for any acts or omissions of your Authorised Users.
+
+10.5 You agree that your Authorised Users may give instructions to us in relation to the Services on your behalf and that we may rely on instructions given by Authorised Users unless and until you notify us in writing that such Authorised User is no longer authorised to do so.
+
+11. Your Payment Account
+
+11.1 Opening a Payment Account. You may request a Payment Account by either following the steps set out on the Equals Money Platform or on the Programme Partner Platform as applicable.
+
+11.2 We may refuse to open a Payment Account for you or close, suspend or otherwise limit your access to your Payment Account if we are unable to verify, or you fail to provide, any information we have requested in accordance with the Terms, or the information you have provided is not correct, or we are required to do so by Applicable Laws or Regulatory Authority.
+
+11.3 Your Payment Account allows you to:
+
+11.3.1 hold funds;
+
+11.3.2 spend, transfer, and receive funds; and
+
+11.3.3 convert funds from one Supported Currency to another Supported Currency.
+
+11.4 You acknowledge and agree that:
+
+11.4.1 you shall not earn any interest on the funds you hold in your Payment Account;
+
+11.4.2 you shall only hold funds in Supported Currencies;
+
+11.4.3 you shall only hold funds that belong to you in your Payment Account; and
+
+11.4.4 you shall not place a charge or any other form of security over funds held in your Payment Account.
+
+11.5 Account Details. We will provide you with details ("Account Details") via the Equals Money Platform that allow you or a third party to send funds to your Payment Account.
+
+11.6 Suspension of your Payment Account. We may suspend your Payment Account or otherwise restrict its functionality if we are required to do so by Applicable Laws, Regulatory Authority, our commercial partners or our service providers including, but not limited to, payments or banking services providers, or we reasonably suspect:
+
+11.6.1 the security of your Payment Account has, or is likely to be, compromised;
+
+11.6.2 fraudulent or unauthorised use of your Payment Account; or
+
+11.6.3 you have breached these Terms.
+
+11.7 We will notify you if we take any action under Section 11.6 unless we are prevented from doing so under Applicable Laws or to do so would compromise our security measures.
+
+12. Adding money to your Payment Account
+
+12.1 You may add funds to your Payment Account with a Funding Method by following the relevant instructions on the Equals Money Platform Programme or the Programme Partner Platform as applicable.
+
+12.2 You are responsible for any fees or charges charged by a third party in relation to your use of a Funding Method to add funds to your Payment Account. We will only credit the amount we receive from a Funding Method to your Payment Account.
+
+12.3 We may place limits on the amount of funds you can hold in your Payment Account or the amount that may be added with a particular Funding Method from time to time.
+
+12.4 We will generally credit funds to your Payment Account when we receive them. The provider of your Funding Method is responsible for transferring funds to us.
+
+12.5 We may refuse to credit or delay the crediting of funds to your Payment Account in accordance with Applicable Laws.
+
+12.6 We may occasionally credit funds to your Payment Account before we receive funds, but we have no obligation to do so.
+
+12.7 If we have credited funds to your Payment Account in accordance with Section 12.6 and we do not receive the funds, we may debit this amount from your Payment Account.
+
+12.8 If we debit your Payment Account in accordance with Section 12.7 and this results in a negative balance on your Payment Account, you agree that such amount as is required to return your Payment Account to a positive or zero balance shall be recoverable by us as a debt and such debt shall be immediately due and payable by you to us.
+
+12.9 Where permitted under Applicable Laws, you agree that we may charge you a fee of up to GBP 60 if we need to investigate or take other actions in relation to a Reversal.
+
+13. Payments
+
+13.1 Payment Requests. You may instruct us to make a payment (a "Payment Request") by following the relevant instructions and providing the requested information as prompted in the Equals Money Platform or in the Programme Partner Platform.
+
+13.2 If you submit a Payment Request after 5pm on a Business Day or on a day that is not a Business Day (e.g., a weekend or bank holiday), your Payment Request will be deemed to be received on the next Business Day.
+
+13.3 Payment Requests for payments that are to be executed at a future date will be deemed to be received on the date on which you request the payment to be made.
+
+13.4 We may decline a Payment Request for any reason in accordance with Applicable Laws. We may provide our reason for declining a Payment Request unless we are prevented from doing so under Applicable Laws.
+
+13.5 We may delay the execution of a payment in accordance with Applicable Laws if, without limitation, we need to confirm that the payment has been authorised by you or we require further information from you.
+
+13.6 Execution of Payments. Once we have received your Payment Request, we will start to execute your payment immediately in accordance with the relevant Payment Request.
+
+13.7 You will only be able to cancel or change a Payment Request where we are informed of the proposed cancellation or change before the end of the Business Day preceding the day of the proposed transaction.
+
+13.8 We will only execute payments if you have sufficient funds in your Payment Account for the amount of the payment and any Fees and Charges or any other fees, charges or other amounts that you owe us under these Terms.
+
+13.9 We may place limits on the types, value and number of payments you can make from time to time.
+
+13.10 Completion of Payments. We shall provide the estimated completion time of payments when you make a Payment Request in accordance with Section 13.1.
+
+13.11 We will use reasonable efforts to ensure that your payment is received by the payee within the timeframe notified to you. However, you acknowledge and agree that we cannot control how long it takes for the payee's payment provider to credit or otherwise make available funds to the payee.
+
+13.12 For the following types of payments:
+
+13.12.1 domestic payments in GBP; and
+
+13.12.2 SEPA payments in EUR (including those in respect of which we carry out an FX Conversion between GBP and EUR in accordance with the FX Service Terms),
+
+we shall credit the amount of the payment to the payee's payment service provider by the end of the Business Day after the day of the Payment Request.
+
+13.13 Payments in other currencies could take up to three (3) Business Days for your payment to be credited to the payee's payment service provider.
+
+14. Currency Conversions
+
+If you wish to fund a payment in a different Supported Currency to the Supported Currency in which the payment will be made, we will perform the currency conversion for you in accordance with the FX Service Terms.
+
+15. Finality of Payments
+
+When you make a payment, the settlement and payout to the payee are final and irrevocable unless otherwise provided for in these Terms or as provided for under Applicable Laws.
+
+16. Information on Payments
+
+Records of your transactions will be available in the Equals Money Platform or in the Programme Partner Platform as applicable. You should check your records regularly and notify us immediately (and in any event no later than thirteen (13) months) to report any: (i) suspected or actual unauthorised payment; (ii) incorrectly initiated or executed payments such as those having not been executed, or having been executed late, or where the amount of the payment or the payee is incorrect; (iii) concerns about certain charges and interest you are liable to pay as a result of such transactions; or (iv) other security concerns regarding the Equals Money Platform or the Programme Partner Platform as applicable.
+
+17. Unauthorised Payments
+
+17.1 Subject to other provisions of this Section 17, if we become aware of an unauthorised payment, we will refund you as soon as practicable and, except as otherwise permitted by the PSRs, no later than the Business Day after we become aware of the unauthorised payment, and restore you to the position you would have been in if the unauthorised payment had not taken place.
+
+17.2 We will have no liability for losses you incur arising from an unauthorised payment which you do not notify us of within thirteen (13) months of the date of the Payment.
+
+17.3 You will be liable for any losses arising out of an unauthorised payment if:
+
+17.3.1 we have reasonable grounds to suspect fraudulent behaviour by either you or your Authorised Users; or
+
+17.3.2 where you or your Authorised Users have with intent or gross negligence failed to notify us of:
+
+(i) the loss, theft, or misappropriation of your Card or Security Credentials; or
+
+(ii) the unauthorised payment(s).
+
+17.4 Notwithstanding Section 17.1 of these Terms, you shall be liable for up to GBP 35 (or any other such amount permitted under Applicable Laws) for any losses incurred by you or an Authorised User in respect of unauthorised payments arising from the use of a lost or stolen Card or Security Credentials save that we will not hold you liable for such an amount if the unauthorised payment was caused either by our acts or omissions, or those of a third party expressly carrying out activities on our behalf.
+
+17.5 Where we provide you with information regarding potential fraud in relation to the Services, we may incorporate your response (or lack thereof) into our assessment of whether there has been fraudulent behaviour in relation to your Payment Account or Authorised Users.
+
+17.6 If you have given us incorrect instructions in relation to a payment, we may reasonably assist you to recover the funds, where possible, but do not guarantee that this would be successful.
+
+17.7 Where we do refund you for an unauthorised payment, we will credit value date your Payment Account no later than the date on which the amount of the unauthorised payment was debited.
+
+18. Authorised Push Payment Scams
+
+18.1 You may be eligible for reimbursement in the event of an Authorised Push Payment scam ("APP Scam"). An APP Scam refers to a payment you make from your Payment Account to another UK account through Faster Payments or CHAPS where:
+
+18.1.1 you have been tricked, manipulated or deceived into making the payment;
+
+18.1.2 the payee is not the person you intended to pay or the payment is not for the purpose you intended; and
+
+18.1.3 the payment was made on or after 7 October 2024.
+
+18.2 You will not be eligible for reimbursement where:
+
+18.2.1 the payment was made using your Card;
+
+18.2.2 the payment was made to another account you or your Authorised User controls;
+
+18.2.3 the payment was made for illegal purposes;
+
+18.2.4 the payment was made to an account with a national savings bank, credit union or municipal bank in the UK; or
+
+18.2.5 the payment related to a civil dispute (e.g., where you paid a legitimate supplier but were dissatisfied with the quality of the goods or services).
+
+18.3 You should report any suspected APP Scams to us and the police as soon as possible (and at least within thirteen (13) months of the payment). You can report multiple transactions related to the same APP Scam in one claim. We may ask for your permission to report the APP Scam to the police on your behalf. If you do not give permission, it could affect your reimbursement eligibility.
+
+18.4 We will only reimburse eligible transactions from your claim. When your claim is closed, we will inform you of the transactions we can reimburse and any that are ineligible. The maximum amount we can reimburse you for an APP Scam claim is up to the value and excess as set by Applicable Laws.
+
+18.5 Your claim in relation to an APP Scam may be rejected where:
+
+18.5.1 the transaction does not meet eligibility criteria;
+
+18.5.2 you acted with gross negligence, provided false information or participated in the APP Scam; and/or
+
+18.5.3 you did not report the APP Scam within thirteen (13) months of the transaction.
+
+18.6 We may also reject an APP Scam claim if you have ignored a warning from us, the police or another authority that you might be the victim of an APP Scam or you have not provided us with any information we have requested to help us investigate your claim.
+
+18.7 Where we reject a claim in relation to an APP Scam, we will explain the reasons for doing so save where we are prohibited from doing so under Applicable Laws.
+
+18.8 If we accept your claim in relation to an APP Scam, we will refund you within five (5) Business Days. If we need more information, this could take up to thirty-five (35) Business Days.
+
+19. How your money is protected
+
+19.1 Equals Money is not a bank and your Payment Account is not a bank account.
+
+19.2 For operational reasons, when you make a Card Transaction, Equals Money International Limited will issue you with an amount of e-money equal to the amount of the Card Transaction and such e-money shall immediately be applied to the relevant Card Transaction.
+
+19.3 Funds held in your Payment Account (and any e-money issued for the purposes of a Card Transaction) are not insured by any deposit protection scheme, including the Financial Services Compensation Scheme ("FSCS").
+
+19.4 We safeguard funds held in your Payment Account in accordance with the PSRs.
+
+20. Closing your Payment Account
+
+20.1 You may close your Payment Account by taking the steps set out on the Equals Money Platform or on the Programme Partner Platform as applicable.
+
+20.2 We may not allow you to close your Payment Account if you have a negative balance, pending payment, an open dispute or claim in relation to a payment, or where required by Applicable Laws or a Regulatory Authority.
+
+21. Changes to these Terms
+
+21.1 We may change these Terms by giving you two (2) months' prior written notice. We will consider that you have accepted the proposed changes if you do not terminate these terms by giving us written notice during the relevant notice period.
+
+21.2 We may also make some changes immediately, without prior notice, if those changes:
+
+21.2.1 are favourable to you;
+
+21.2.2 are required by Applicable Laws or we are requested to do so by a Regulatory Authority; or
+
+21.2.3 relate to the addition of a new service or extra functionality of our Services or Additional Services and do not affect terms relating to the existing Services or Additional Services.
+
+21.3 You should stop using our Services if you do not agree to these changes. If you keep using our Services after we have announced such a change, we will treat you as having accepted the change.
+
+22. Safety and security measures
+
+22.1 You must not allow any person other than your Authorised Users to access the Services or the Equals Money Platform or the Programme Partner Platform as applicable.
+
+22.2 You must not disclose your Security Credentials to anyone other than Authorised Users and shall make reasonable efforts to protect the security of your Security Credentials.
+
+22.3 Any Security Credentials that you create must not use identifiable numbers, words or phrases that could be easily guessed by someone else.
+
+22.4 If you suspect that someone else has access to or knows your Security Credentials, you must notify us of this immediately.
+
+23. Tax
+
+23.1 Fees and Charges are exclusive of all Taxes (save where expressly stated otherwise). If any supply made by us of the Services is subject to VAT, you must pay in addition to any Fees, Charges or other consideration for the supply, an amount equal to the VAT payable.
+
+23.2 You are solely responsible for determining which, if any, Taxes apply to the payments you make or receive in connection with your use of the Services and it is your responsibility to collect, report and pay any such Taxes due.
+
+23.3 If we are required by Applicable Laws to collect or withhold any Taxes, we may deduct those Taxes from amounts otherwise owed to you and pay those Taxes to the appropriate authority.
+
+24. Data protection
+
+24.1 By accepting these Terms, you hereby consent to us accessing, processing, and/or retaining any Personal Data necessary to provide Services, whether in relation to you or your Authorised Users.
+
+24.2 Any Personal Data you provide to us in connection with these Terms shall be held in accordance with our Privacy Policy. Please review our Privacy Policy for more information on how we use and protect your Personal Data and privacy rights.
+
+25. Intellectual property
+
+25.1 Nothing in these Terms shall cause the ownership of any or our Intellectual Property to be transferred to you.
+
+25.2 We and/or our licensors shall, remain the owner of all Intellectual Property in our brands, trademarks and logos, product(s) and the Services. Except as expressly permitted by these Terms you may not use our Intellectual Property without our prior written consent.
+
+25.3 Subject to the provisions of these Terms, you are granted a non-transferable, non-exclusive licence to access and use the Services. Except as expressly set out in these Terms all rights in and to the Services are reserved to us.
+
+26. Termination and suspension of these Terms
+
+26.1 We may terminate these Terms at any time by giving you two (2) months' notice.
+
+26.2 We may without notice suspend or terminate any part or all of these Terms or any Service Schedule or any of the Services or Additional Services or block payments if:
+
+26.2.1 we suspect criminal activity on your Payment Account or fraudulent use of the Services;
+
+26.2.2 we reasonably believe you have fraudulently requested a refund of an unauthorised payment;
+
+26.2.3 we reasonably believe you have breached Applicable Laws or Network Rules;
+
+26.2.4 you have materially breached these Terms or any Service Schedule;
+
+26.2.5 you have provided false or inaccurate information, or we have been able to verify any information you have provided;
+
+26.2.6 we are unable to obtain satisfactory DD Information on you (or, where applicable) your beneficial owners;
+
+26.2.7 you are Insolvent; or
+
+26.2.8 we are required to do so by a Regulatory Authority or Network or are otherwise required to do so under Applicable Laws.
+
+26.3 For the avoidance of doubt, the termination of these Terms will automatically result in the termination of any Service Schedule.
+
+27. How to contact us
+
+27.1 You can write to us at Equals Money, 3rd Floor, Vintners Place, 68 Upper Thames Street, London, EC4V 3BJ.
+
+27.2 Alternatively, you may call or email us using the details below:
+
+27.2.1 General enquiries: Email - solutions@equalsmoney.com / Tel: +44 (0)20 7778 9302
+
+27.2.2 Legal enquiries: Email - legal@equalsmoney.com
+
+27.3 We will use commercially reasonable efforts to provide you with regular customer support in the English language.
+
+28. Complaints
+
+28.1 If you feel we have not met your expectations and would like to make a complaint, please get in touch and we will investigate your concerns.
+
+28.2 Our contact details are as follows:
+
+28.2.1 Tel: +44 (0)20 3977 1335
+
+28.2.2 Email: complaints@equalsmoney.com
+
+28.3 If you are not happy with how we have resolved your complaint, you may forward your complaint to the Financial Services Ombudsman ("FOS") by:
+
+28.3.1 Tel: +44 300 123 9 123 or +44 800 023 4567 from 8am-8pm Monday to Friday and from 9am-1pm on Saturdays.
+
+28.3.2 Email: complaint.info@financial-ombudsman.org.uk
+
+28.3.3 Online: https://help.financial-ombudsman.org.uk/help
+
+28.4 If your complaint concerns payment services, you can also complain to the Financial Conduct Authority, which regulates financial firms in the UK to ensure that they operate in a fair and transparent manner.
+
+29. Governing law
+
+29.1 These terms, and Schedules 1 and 2, will be governed by and construed in accordance with the laws of England and Wales. Schedules 3, 4, 5, 6, 7 and 8 are governed by the laws of Jersey in accordance with paragraph 1.6 of Schedule 3.
+
+29.2 You irrevocably submit to the exclusive jurisdiction of the English courts over any dispute, controversy or claim (including non-contractual claims) arising under or in connection with these Terms. This section does not apply to any dispute arising under or in connection with Schedules 3, 4, 5, 6, 7 and 8 which is dealt with in paragraph 1.6 of Schedule 3.
+
+SCHEDULE 1
+
+CARD SERVICE TERMS
+
+Under an agreement with Tribe Ltd, we provide you with access to card and payment services. Tribe Ltd acts as a programme partner and is not a regulated financial services provider. Tribe Ltd is contracted with Veloce Esports Limited to run the "Kolab from Veloce" fan-super-app, the agreement with whom governs your relationship by a separate agreement. We are not a party to that agreement and are not responsible for its terms or performance.
+
+1. Introduction
+
+1.1 Where you have been provided with the Card Service, the following terms ("Card Service Terms") will apply in addition to our Customer Terms and shall govern the use of Cards by you and any Additional Cardholders.
+
+1.2 The provider of the Cards Service is Equals Money International Limited and the issuer of the Cards is Equals Money International Limited.
+
+1.3 You agree to pay the Fees and Charges applicable to the Card Service.
+
+1.4 Unless otherwise defined in section 11 of these Card Service Terms, all capitalised terms have the meanings given in the glossary available on our website.
+
+1.5 By requesting a Card, you accept and agree to these Card Service Terms.
+
+1.6 If you do not agree to these Card Service Terms, you may not apply for, or use, the Cards.
+
+2. Applying for a Card
+
+2.1 You or an Authorised User may request the issuance of a virtual card that is available through the Equals Money Platform or tokenised to a mobile device ("Virtual Card") or a physical card ("Physical Card") to you or an Additional Cardholder via the Equals Money Platform, over the phone or by email.
+
+2.2 You agree that you will be bound by any request by an Authorised User for the issuance of a Card.
+
+2.3 You must provide the required information on Additional Cardholders via the Equals Money Platform, over the phone or by email.
+
+2.4 We reserve the right to refuse to issue a Card to any person for any reason.
+
+2.5 Cards may be denominated in a Supported Currency.
+
+2.6 If we approve your request for a Card, we will:
+
+2.6.1 provide the Card Details to you via the Equals Money Platform if the Card is a Virtual Card; or
+
+2.6.2 send the Card to the address you provide to us, if the Card is a Physical Card.
+
+2.7 You must comply with any instructions we give to you from time to time regarding the use of Cards whether through the Equals Money Platform or otherwise.
+
+3. Card Transactions
+
+3.1 Your Card (whether it is a Physical Card or Virtual Card) must be linked to your Payment Account (a "Funding Account").
+
+3.2 Cards can only be used for Card Transactions up to the value of your balance held in your Funding Account at any given time. We do not provide credit in relation to Card Transactions.
+
+3.3 You must therefore ensure that your Funding Account has sufficient balance for your purchase or the Card Transaction will be rejected.
+
+3.4 Where a Card Transaction is made in a different currency to the Funding Account, such a Card Transaction must be paid for in the same currency in which the Funding Account is denominated. Any FX Conversion shall be subject to the FX Service Terms.
+
+3.5 You are liable for all Card Transactions, and any related Fees and Charges, including transactions with Cards issued to Additional Cardholders.
+
+3.6 You must only use your Card for lawful purposes. All Cards remain our property, and we may request that you return all Cards to us at any time.
+
+3.7 Pre-authorisation. You may pre-authorise the estimated amount of (or a certain portion of) the final amount of a Card Transaction. The amount of the pre-authorisation may be reflected in the balance of your Funding Account and this amount may be made unavailable for future Card Transactions. Any portion of such pre-authorised amount which is not applied towards the Card Transaction will then be made available to you. FX conversions may occur at the point of pre-authorisation if the Card Transaction is not in the currency of the Funding Account.
+
+3.8 Refunds. If you receive a refund of a Card Transaction this will be credited to your Funding Account with the amount of the Refund in the currency in which the Funding Account is denominated regardless of the currency in which the Refund was paid. You agree that we shall process any FX Transaction in accordance with the FX Service Terms.
+
+3.9 Authorisation and suspension of Card Transactions. We may need to authorise Card Transactions as the issuer of the Card. We may in our reasonable discretion deny authorisation and/or suspend the use of your Card if:
+
+3.9.1 the balance of your Funding Account is insufficient;
+
+3.9.2 the amount of the Card Transaction exceeds any transaction limit we place on your Card from time to time;
+
+3.9.3 we suspect that there is fraud or a security issue;
+
+3.9.4 we suspect that your Card is being used for an illegal purpose; or
+
+3.9.5 you have materially breached the Customer Terms or these Card Service Terms.
+
+3.10 We will give you notice of any denied Card Transaction or suspension of a Card and the reasons as soon as we can where this would not breach Applicable Laws.
+
+3.11 Where possible we will do this before the suspension is put in place, unless to do so would compromise our reasonable security measures or otherwise breach Applicable Laws.
+
+3.12 We will lift the suspension of a Card as soon as practicable after the reasons for the suspension have ceased to exist.
+
+3.13 Before we authorise a transaction, we may require you to confirm your identity by following certain steps specified by us.
+
+3.14 You acknowledge and agree that we are not liable to you or any other person for any loss suffered as a result of an authorisation being denied or a Card being suspended.
+
+3.15 Card Transaction limits. We may from time to time agree transaction limits on your use of the Card which may be based on the number or amount (whether of individual Card Transactions or in aggregate).
+
+3.16 Other third-party organisations may impose additional restrictions on the amount of your Card Transactions.
+
+3.17 We may also place limits on the number of Cards you can request from us each month or that you may have active at any given time.
+
+4. No responsibility for goods and services purchased with Cards
+
+4.1 We accept no responsibility for the quality, safety, legality, or any other aspect of any goods or services purchased with a Card. Any complaints about any goods or services purchased with a Card must be resolved directly with a merchant.
+
+4.2 We are not liable for any loss that may arise if a merchant refuses to accept a Card.
+
+5. Card Management
+
+5.1 Cancelling a Card. An Authorised User can view details of the Cards that have been issued to them and you or any Authorised User may request that any Card be cancelled or temporarily suspended at any time.
+
+5.2 You acknowledge and agree that you shall remain liable for all Card Transactions with a Card in respect of the period up until the Card is cancelled.
+
+5.3 Card restrictions. You may, via the Equals Money Platform, over the phone or by email, request that we place restrictions on:
+
+5.3.1 the maximum amount of a Card Transaction with a Card; and/or
+
+5.3.2 the types of purchases for which a Card may be used.
+
+5.4 We will inform you through the Equals Money Platform, over the phone or by email if we approve such a request.
+
+5.5 It is your responsibility to notify each Additional Cardholder of any restrictions that apply to a Card.
+
+6. Safety and security
+
+6.1 You acknowledge and agree that:
+
+6.1.1 only you or an Authorised User can use a Card issued to you; and
+
+6.1.2 only Additional Cardholders may use a Card that has been issued to them.
+
+6.2 You must regularly monitor your Funding Account to make sure no unauthorised Card Transactions have occurred.
+
+6.3 You must comply with the safety and security measures in respect of Cards as set out in section 6 of these Card Service Terms and ensure that any Additional Cardholders do the same.
+
+6.4 You must also comply with any additional security requirements we notify to you from time to time and ensure that any Additional Cardholders do the same.
+
+6.5 You acknowledge and agree that we may disclose any information to law enforcement agencies if we suspect there has been any unauthorised use, misuse or fraud in connection with your Card.
+
+7. Lost or stolen Cards and unauthorised use of Cards
+
+7.1 If you believe a Card has been lost or stolen or used without your authorisation you must notify us immediately via the Equals Money Platform, over the phone or by email.
+
+7.2 You must cooperate with us in investigating any claims in connection with the loss or misuse of a Card.
+
+7.3 If you suspect that someone that is not authorised to do so knows any of your Card Details or Security Credentials relating to a Card, stop using the Card and contact us immediately via the Equals Money Platform, over the phone or by email.
+
+8. Liability
+
+8.1 Without limiting any section of the Customer Terms, you will be liable for all unauthorised transactions where you have contributed to the loss by:
+
+8.1.1 breaching or compromising the security of your Security Credentials; or
+
+8.1.2 delaying the reporting of the loss, theft or misuse of your Card, Card Details or Security Credentials.
+
+8.2 For the avoidance of doubt, we do not accept any liability where you have acted fraudulently or with gross negligence in losing your Card, Card Details or Security Credentials or where you fail to notify us of the loss, theft or misuse as soon as you become aware of it.
+
+9. Chargebacks
+
+9.1 We may be entitled to seek to reverse (chargeback) Card Transactions where you have a dispute with the merchant that supplied the goods or services.
+
+9.2 To avoid losing any rights you may have to dispute such a Card Transaction, you should:
+
+9.2.1 tell us as soon as possible after the date of the Card Transaction via the Equals Money Platform, over the phone or by email; and
+
+9.2.2 provide us with any information we ask for to support your request via the Equals Money Platform, over the phone or by email.
+
+9.3 If we are satisfied after investigation that you are entitled to reverse a transaction in accordance with Network Rules, the amount initially debited for the transaction will be credited to the Funding Account.
+
+10. Expense management and bill payments
+
+10.1 You may assign permissions to Authorised Users to:
+
+10.1.1 review and approve Card Transactions made by Cardholders; and/or
+
+10.1.2 review and approve invoices relating to the Card Service.
+
+11. Definitions
+
+11.1 In these Card Service Terms, the following definitions apply:
+
+"Additional Cardholder"
+
+means a person to whom we have issued a Card to access the balance of your Payment Account at your request.
+
+"Card"
+
+means Mastercard-branded cards issued to you in accordance with these Card Service Terms.
+
+"Card Details"
+
+means the 16-digit account number, expiry date and (CVV/CVV2) code of a Card.
+
+"Card Transaction"
+
+means the purchase of goods or services using a Card.
+
+"Customer Terms"
+
+means the Equals Money Customer Terms and Conditions available on our website.
+
+"Funding Account"
+
+has the meaning given in section 3.1 of these Card Service Terms.
+
+"Physical Card"
+
+has the meaning given in section 2.1 of these Card Service Terms.
+
+"Virtual Card"
+
+has the meaning given in section 2.1 of these Card Service Terms.
+
+SCHEDULE 2
+
+FX SERVICE TERMS
+
+Under an agreement with Tribe Ltd, we provide you with access to card and payment services. Tribe Ltd acts as a programme partner and is not a regulated financial services provider. Tribe Ltd is contracted with Veloce Esports Limited to run the "Kolab from Veloce" fan-super-app, the agreement with whom governs your relationship by a separate agreement. We are not a party to that agreement and are not responsible for its terms or performance.
+
+1. Introduction
+
+1.1 Where we agree to provide the FX Service to you, the following terms (the "FX Service Terms") will apply in addition to the Customer Terms.
+
+1.2 The FX Service is provided by Equals Money PLC.
+
+1.3 You agree to pay the Fees and Charges applicable to the FX Service.
+
+1.4 Unless otherwise defined in section 12 of these FX Service Terms, all capitalised terms have the meanings given in the glossary available on our website.
+
+1.5 By using the FX Service, you accept and agree to these FX Service Terms.
+
+2. The FX Service
+
+2.1 Service Provider shall provide you with the following services in accordance with the Customer Terms and these FX Service Terms:
+
+2.1.1 "FX Conversion" being an agreement between you and us for the exchange of one Supported Currency for another Supported Currency at the agreed FX Exchange Rate that will settle in the Trading Period; and
+
+2.1.2 "FX Forward" being any agreement between you and us for the exchange of one Supported Currency for another Supported Currency at the agreed FX Exchange Rate that will settle at a date that is later than the Trading Period.
+
+2.2 The FX Service is not regulated by the FCA and is not protected by any compensation scheme.
+
+2.3 We will not provide investment advice or personal recommendations in relation to FX Transactions.
+
+2.4 We will act as principal in relation to the FX Service. We will not act as your agent in relation to FX Transactions.
+
+2.5 You are responsible for obtaining any legal, accounting, financial or tax advice you may require in relation to the FX Service and its suitability for your needs.
+
+2.6 To the extent permitted by Applicable Laws, we do not owe you any fiduciary duty or any similar obligation in respect of the FX Service.
+
+3. FX Forwards
+
+3.1 We do not provide a currency trading service. You acknowledge and agree that you may only enter into FX Forwards for the purpose of facilitating payment for identifiable goods or services. If we reasonably believe that you intend to enter into FX Forwards for other purposes (including but not limited to engaging in currency trading), we:
+
+3.1.1 may refuse an FX Order relating to an FX Forward; or
+
+3.1.2 if we have already accepted your FX Order, we may cancel the FX Forward.
+
+3.2 You represent and warrant at the Commencement Date and on an ongoing basis that you are a non-financial counterparty for the purposes of EMIR.
+
+4. Placing an FX Order with us
+
+4.1 Order requests. You may place a request for an FX Order (an "Order Request") via the Equals Money Platform by taking the steps and providing the information as prompted.
+
+4.2 We reserve the right to refuse an Order Request for any reason. We may, without limitation, refuse an Order Request if you:
+
+4.2.1 have violated the Customer Terms or these FX Service Terms;
+
+4.2.2 have insufficient funds in your Payment Account to pay for an FX Order; or
+
+4.2.3 fail to pay an amount you owe to us in accordance with these FX Service Terms when such amount became due.
+
+4.3 We are not required to notify you of our reasons for refusing an Order Request, but may choose to do so unless prevented by Applicable Laws.
+
+4.4 FX Exchange Rates. The indicative FX Exchange Rate will be communicated to you via the Equals Money Platform and will be available for immediate execution only. The indicative FX Exchange Rate may quickly change due to fluctuations in the foreign exchange market and we have no obligation to make such exchange rate available to you on a continuing basis.
+
+4.5 You acknowledge and agree that the final FX Exchange Rate in the Quote we give you in accordance with section 4.7 may therefore differ from the indicative FX Exchange Rate due to market fluctuations and other factors which are outside our control.
+
+4.6 We shall set out the final FX Exchange Rate for each requested FX Order in the Quote.
+
+4.7 Quotes. If we accept your Order Request, we will provide you with a quote ("Quote") which will include:
+
+4.7.1 the final FX Exchange Rate for the exchange of Supported Currencies;
+
+4.7.2 the amount in the relevant Supported Currency you will be required to pay us for the FX Transaction including any fees and charges (the "Settlement Amount");
+
+4.7.3 the date on which you must pay us the Settlement Amount (the "Settlement Date");
+
+4.7.4 the amount in the relevant Supported Currency we will pay to you for the FX Transaction (the "Delivery Amount"); and
+
+4.7.5 the date on which we will pay you the Delivery Amount (the "Delivery Date").
+
+4.8 Confirming an FX Order. If you accept a Quote, you are agreeing to place an FX Order and enter into an FX Transaction with us.
+
+4.9 You may not cancel an FX Order once you have accepted a Quote.
+
+4.10 An FX Order is legally binding on you and we shall have no responsibility for any error or inaccuracy in your Order Request (e.g. if you have inputted the wrong amount or Supported Currency).
+
+4.11 You may request that we amend or cancel an FX Order if it has not been executed. We may, in our absolute discretion, amend or cancel an FX Order but we have no obligation to do so.
+
+4.12 If you submit an FX Order after 5pm on a Business Day or on a day that is not a Business Day (e.g., a weekend or bank holiday), your FX Order will be deemed to be received on the next Business Day.
+
+4.13 FX Orders for FX Transactions that are to be executed at a future date will be deemed to be received on the date on which you wish the FX Transaction to be made.
+
+5. Execution of FX Orders
+
+5.1 It may not always be possible for us to execute your FX Order. You acknowledge and agree that we shall be under no obligation to execute your FX Order.
+
+5.2 We may not execute your FX Order for, among others, the following reasons:
+
+5.2.1 there is a lack of liquidity in the market for the relevant Supported Currency;
+
+5.2.2 there is market disruption; or
+
+5.2.3 Applicable Laws would, in our reasonable opinion, prevent us from executing the FX Order.
+
+5.3 We shall not be liable to you where we have declined an FX Order or have been unable to execute an FX Order.
+
+6. Confirmations
+
+6.1 Following the execution of an FX Transaction, we will provide key details of the FX Transaction (a "Confirmation") via the Equals Money Platform.
+
+6.2 The issuance of a Confirmation means that the FX Transaction can no longer be cancelled.
+
+7. Settlement of FX Transactions
+
+7.1 You shall pay us the Settlement Amount and any fees and charges on the Settlement Date.
+
+7.2 You agree that we may debit the Settlement Amount from your Payment Account on the Settlement Date without further reference to you.
+
+7.3 We shall pay the Delivery Amount to you in the relevant Supported Currency on the Delivery Date.
+
+7.4 We shall credit the Delivery Amount to your Payment Account in accordance with your instructions.
+
+7.5 If you have instructed us to fund a payment to a third party with the amount we owe to you in relation to an FX Transaction, such payment will be executed in accordance with the Customer Terms.
+
+8. Netting of payment obligations
+
+We may offset any amount we owe you against any amount you owe to us. This may reduce the Delivery Amount we are required to make to you on certain Delivery Dates.
+
+9. Termination of FX Transactions
+
+9.1 If you wish to terminate an FX Transaction prior to the Settlement Date, you may request a quote for this (a "Termination Quote") via the Equals Money Platform.
+
+9.2 The Termination Quote will include our charge for early termination (the "Early Exit Charge").
+
+9.3 We shall have no obligation to provide a Termination Quote and may refuse to do so in our absolute discretion.
+
+9.4 If we agree to provide a Termination Quote, it will be available for immediate execution only. We have no obligation to make the terms of such Termination Quote or the specified Early Exit Charge available to you on a continuing basis.
+
+9.5 We will calculate the Early Exit Charge on the basis of various factors including market conditions and any costs we have incurred such as the costs of hedging the FX Transaction. The Early Exit Charge may therefore be a significant amount and we are unable to predict what it might be at any particular time.
+
+9.6 When you pay an Early Exit Charge, this will discharge your obligations in relation to the relevant FX Transaction.
+
+10. Margin
+
+10.1 We may require you to pay funds to us as security before executing your FX Order ("Margin").
+
+10.2 We may also require you to increase the amount of Margin after the FX Order (a "Margin Call") during the term of the FX Transaction.
+
+10.3 You must meet any such Margin or Margin Call within 24 hours or we may cancel your FX Order or FX Transaction (as applicable).
+
+10.4 Any such Margin or Margin Call shall be for the purpose of securing all your actual or contingent, prospective, present or future obligations to us under these FX Service Terms.
+
+10.5 We shall acquire full ownership of any amount paid to us as Margin and shall deal with such funds as our own.
+
+10.6 We will owe you a debt equal to the amount of any Margin received by us. We shall pay to you all or part of any amount of this debt to the extent that we consider, in our discretion, that the amount of Margin you have paid exceeds the amount required by us to secure or cover all your obligations under these FX Service Terms.
+
+10.7 Margin held by us is not treated as electronic money and is not safeguarded. In the event of our insolvency, you will rank as a general creditor of ours in relation to any such Margin paid to us.
+
+11. Risks
+
+11.1 You acknowledge that you have considered and accepted that FX Transactions carry risks, including, but not limited to:
+
+11.1.1 Credit risk. FX Transactions are entered into between you and us on a principal-to-principal basis. You are therefore exposed to the risk that we fail to perform our obligations to you under these FX Service Terms.
+
+11.1.2 Market risk. Foreign exchange rates fluctuate due to market volatility and other factors including economic and political events. Such fluctuations could affect the value of FX Transactions.
+
+11.1.3 Liquidity risk. Supported Currencies may be or become illiquid. This could affect the execution or settlement of FX Transactions. You must therefore be prepared to remain in an FX Transaction until it has settled as you may not be able to exit an FX Transaction early.
+
+12. Definitions
+
+In these FX Service Terms, the following definitions apply:
+
+"Confirmation"
+
+has the meaning given in section 6.1 of these FX Service Terms.
+
+"Customer Terms"
+
+means the Equals Money Customer Terms and Conditions available on our website.
+
+"Delivery Amount"
+
+has the meaning given in section 4.7.4 of these FX Service Terms.
+
+"Delivery Date"
+
+has the meaning given in section 4.7.5 of these FX Service Terms.
+
+"Early Exit Charge"
+
+has the meaning given in section 9.2 of these FX Service Terms.
+
+"EMIR"
+
+means:
+
+(a) Regulation (EU) No 648/2012 on OTC derivatives, central counterparties and trade repositories, if you are an EEA Customer; and
+
+(b) the UK version of Regulation (EU) No 648/2012 on OTC derivatives, central counterparties and trade repositories which is part of UK law by virtue of the European Union (Withdrawal) Act 2018, if you are a UK Customer.
+
+"FX Conversion"
+
+has the meaning given in section 2.1.1 of these FX Service Terms.
+
+"FX Exchange Rate"
+
+means the exchange rate that we offer through the Equals Money Platform at the relevant time for an exchange of the relevant pair of Supported Currencies.
+
+"FX Forward"
+
+has the meaning given in section 2.1.2 of these FX Service Terms.
+
+"FX Order"
+
+means an instruction from you for us to provide an FX Conversion or FX Forward.
+
+"FX Transaction"
+
+means an FX Conversion or an FX Forward.
+
+"Margin"
+
+has the meaning given in section 10.1 of these FX Service Terms.
+
+"Margin Call"
+
+has the meaning given in section 10.2 of these FX Service Terms.
+
+"Order Date"
+
+means, in respect of each FX Order, the date that you confirm an FX Order with us in accordance with section 4.8 of these FX Service Terms.
+
+"Order Request"
+
+has the meaning given in section 4.1 of these FX Service Terms.
+
+"Quote"
+
+has the meaning given in section 4.7 of these FX Service Terms.
+
+"Settlement Amount"
+
+has the meaning given in section 4.7.2 of these FX Service Terms.
+
+"Settlement Date"
+
+has the meaning given in section 4.7.3 of these FX Service Terms.
+
+"Termination Quote"
+
+has the meaning given in section 9.1 of these FX Service Terms.
+
+"Trading Day"
+
+means a day of normal trading in the jurisdictions of both the currencies which are the subject of the FX Transaction.
+
+"Trading Period"
+
+means the longer of:
+
+(a) two Trading Days from the Order Date; or
+
+(b) such longer period from the Order Date that is generally accepted in the market for an exchange of the Supported Currencies to which the FX Conversion relates.
+
+SCHEDULE 3
+
+SUBSCRIPTION SERVICE TERMS
+
+These Subscription Service Terms govern paid subscription plans in the App: how a Subscription starts, how it renews, how and when Tribe collects payment, what happens when a payment fails, and how you cancel. They should be read with Schedule 4 and Schedule 5.
+
+1. Definitions and interpretation
+
+1.1 This section 1 applies to Schedules 3, 4 and 5. Terms defined here have the same meaning in each of those Schedules. Terms specific to the Programme are defined in section 2 of the Rewards Service Terms. Terms not defined in either place have the meaning given in section 2 of the Terms.
+
+1.2 In Schedules 3, 4 and 5:
+
+Term
+
+Meaning
+
+"App"
+
+the "Kolab from Veloce" mobile application operated by Tribe, through which the Subscription Service, the Marketing Service, the Rewards Service, the Shop Service and related content are made available to you.
+
+"Billing Period"
+
+has the meaning given in paragraph 3.1.
+
+"Brand Partner"
+
+a club, team, rights holder, series, creator, athlete or other brand under whose name the App or any part of it is presented, or which supplies content, offers or rewards through the App.
+
+"Community Guidelines"
+
+the community guidelines published by Tribe in the App, as amended from time to time.
+
+"Content"
+
+has the meaning given in paragraph 1.1 of the Content Service Terms.
+
+"Engage"
+
+has the meaning given in paragraph 1.1 of the Engage Service Terms
+
+"Marketing Material"
+
+has the meaning given in paragraph 1.1 of the Marketing Service Terms.
+
+"Privacy Notice"
+
+the privacy notice published by Tribe in the App, as amended from time to time.
+
+"Programme"
+
+the Kolab Rewards programme operated by Tribe in accordance with the Rewards Service Terms.
+
+"Shop"
+
+has the meaning given in paragraph 1.1 of the Shop Service Terms
+
+"Subscription"
+
+has the meaning given in paragraph 2.1.
+
+"Tribe"
+
+Tribe Ltd, as defined in section 2 of the Terms.
+
+1.3 Schedules 3, 4, 5, 6, 7 and 8 are provided by Tribe and not by us. References in the Terms to "we", "us" and "our" mean Equals Money and do not extend to Tribe. Equals Money is not a party to these Schedules and is not responsible for their performance, except where a provision expressly refers to Equals Money.
+
+1.4 Where these Schedules conflict with the Terms, these Schedules prevail in relation to the Subscription Service, the Marketing Service and the Rewards Service only. In all other respects the Terms prevail.
+
+1.5 A reference to a "section" in Schedules 3, 4, 5, 6, 7 and 8 is a reference to a section of the Schedule in which it appears, unless another Schedule is named.
+
+1.6 Schedules 3, 4, 5, 6, 7 and 8 and any dispute or claim arising out of or in connection with them, are governed by the laws of Jersey, and you and Tribe submit to the jurisdiction of the courts of Jersey. If you are resident in the United Kingdom or in a member state of the European Union, you keep the benefit of any mandatory protections of the law of your country of residence that cannot be excluded by agreement, and you may bring proceedings in the courts of that country.
+
+2. Subscription plans
+
+2.1 A subscription gives you access to the paid features, content and benefits described for your chosen plan for as long as the subscription is active and paid for ("Subscription"). The plans available to you, their price, their billing frequency and what each includes are set out on the plan selection screen in the App before you subscribe.
+
+2.2 Before you subscribe Tribe will show you, in a single clear display and separately from other information, the key details of the Subscription: what you will pay, how often, when the first and each subsequent payment will be taken, the minimum term (if any), that the Subscription renews automatically unless you cancel, and how to cancel. You will need to acknowledge that display before your Subscription starts.
+
+2.3 Some benefits within a plan are supplied by third parties and are subject to Schedule 4 and to the supplier's own terms.
+
+3. Term, start date and automatic renewal
+
+3.1 Your Subscription starts on the date Tribe confirms it (or, where you take a trial, on the date the trial converts) and continues for the billing period you selected ("Billing Period").
+
+3.2 At the end of each Billing Period your Subscription renews automatically for a further Billing Period of the same length, at the then-current price, unless you cancel before the renewal date or Tribe tells you the Subscription will end.
+
+3.3 Tribe will not take a renewal payment before the date on which the Subscription actually renews.
+
+4. Free trials and introductory offers
+
+4.1 Where Tribe offers a free or discounted trial, Tribe will tell you before you start it how long it lasts, what you will be charged when it ends, and the date of the first full payment.
+
+4.2 Tribe will send you a reminder before the trial converts and before the first payment is taken at the full or higher rate, giving you a reasonable opportunity to cancel without being charged.
+
+4.3 Unless Tribe says otherwise, trials and introductory offers are limited to one per person and per payment method, are not available if you have previously held a Subscription of that type, and may be withdrawn at any time before you start one.
+
+5. Fees, taxes and price changes
+
+5.1 Prices are shown inclusive of VAT or other applicable sales tax where Tribe is required to display them that way. If the applicable rate or the place of supply changes, the price you pay may change accordingly.
+
+5.2 Tribe may change the price of a Subscription or any of its fees and charges in Annex A. Tribe will give you at least 30 days' notice in writing before any changes take effect, and the new price(s) will apply from your next renewal. The notice will tell you the old price, the new price, when it takes effect and how to cancel if you do not wish to continue.
+
+5.3 If your Subscription is billed in a currency other than the currency of your payment method, your card issuer or bank may apply its own conversion rate and charges, over which Tribe has no control.
+
+6. Your authority for Tribe to collect payment
+
+6.1 By taking out a Subscription you authorise Tribe, or its payment service provider acting for it, to collect the Subscription fee and any other amount properly due under these Subscription Service Terms from your Kolab Bank Account (or if permitted, from the payment method you register), on the dates and at the intervals notified to you. This is a continuing authority which remains in force until your Subscription ends and all sums due have been paid.
+
+6.2 You confirm that you are the authorised holder of the payment method and that you will keep its details current. It is a condition of using the Kolab App that your registered payment method must be your Kolab Bank Account.
+
+6.3 You may withdraw this authority at any time by cancelling your Subscription in the App. You may also instruct your card issuer, bank or payment provider directly to stop the payments, and they must act on that instruction. Cancelling with your payment provider stops the collection but does not by itself end your Subscription or any liability that has already accrued, so you should also cancel in the App.
+
+6.4 Where your card is replaced, reissued or updated, your card scheme may pass the new details to Tribe automatically through an account updater service so that your Subscription is not interrupted. You can prevent this by cancelling your Subscription.
+
+6.5 The first payment may require you to authenticate with your bank. Later payments are initiated by Tribe under the authority in paragraph 6.1 and may not require you to authenticate each time.
+
+7. Billing date, failed payments and retries
+
+7.1 Tribe collects payment on or shortly after the renewal date. If that date does not exist in a given month, Tribe collects on the last day of that month.
+
+7.2 If a payment fails, Tribe may re-present it up to seven times over the following 14 days. Tribe will tell you each time a payment has failed and what you need to do.
+
+7.3 Tribe does not charge a fee for a failed payment. Your bank or card issuer may charge you one.
+
+8. Suspension and ending for non-payment
+
+8.1 If payment remains outstanding after the retry period, Tribe may suspend your access to paid features. Tribe will tell you before it does so.
+
+8.2 If payment remains outstanding 14 days after suspension, Tribe may end your Subscription. You will keep your free account and any non-paid features unless these Subscription Service Terms say otherwise.
+
+8.3 If you pay the outstanding amount before Tribe ends the Subscription, Tribe will restore access without charge.
+
+9. How to cancel
+
+9.1 You can cancel your Subscription at any time, and it will not renew again. Cancellation takes effect at the end of the Billing Period you have already paid for, and you keep access until then, unless you are exercising a cooling-off right under section 10.
+
+9.2 You can cancel in the App in Profile > Close Account. Cancelling takes no more steps than subscribing did. Tribe may ask why you are cancelling and may show you an alternative, but you can decline and complete the cancellation immediately.
+
+9.3 You can also cancel by contacting Tribe at support@tribe.fan Any clear statement that you want to cancel is enough.
+
+9.4 Tribe will confirm your cancellation, the date your access ends and any refund due, in writing and within two business days.
+
+10. Your cooling-off rights
+
+10.1 When you first take out a Subscription you have 14 days from the day the contract is made to change your mind and cancel for a full refund, unless paragraph 10.2 applies.
+
+10.2 If you ask Tribe to start supplying digital content immediately and acknowledge that you will lose your right to cancel by doing so, you will not have the 14-day right in respect of that digital content. Tribe will ask for that request and acknowledgment separately and will keep a record of it.
+
+10.3 You also have a cooling-off period after certain renewals - specifically after a free or discounted trial converts, and on the renewal of a Subscription with a term of 12 months or more. This right cannot be given up. If you cancel within that period, Tribe will refund the payment taken for the renewal, less a proportionate amount for the part of the period you have already had the benefit of.
+
+10.4 Tribe will pay refunds using the same payment method you used, within 14 days of the cancellation taking effect.
+
+11. Other refunds
+
+11.1 Apart from section 10, Subscription fees for a Billing Period already begun are not refundable, unless Tribe has broken the contract, the service has been materially unavailable, or Tribe has taken a payment it was not entitled to take.
+
+11.2 If Tribe takes a payment it was not entitled to take, Tribe will refund it in full without you having to ask, as soon as it becomes aware of it.
+
+11.3 Nothing in this section affects your statutory rights, including any right you have where a service is not supplied with reasonable care and skill.
+
+12. Subscriptions bought through an app store
+
+12.1 If you bought your Subscription through the Apple App Store or Google Play, that store collects the payment, manages the renewal and handles cancellation and refunds under its own terms. Tribe does not hold your payment details.
+
+12.2 In that case you must cancel through your store account, not in the App, and refund requests must be made to the store. Tribe will help you where it can, but it cannot cancel or refund a store-billed Subscription for you.
+
+12.3 The remainder of these Subscription Service Terms continues to apply to your use of the App and to the benefits your Subscription unlocks.
+
+13. Changing your plan
+
+13.1 You can upgrade at any time. The upgrade takes effect immediately and Tribe will charge you the difference for the remainder of the current Billing Period, calculated proportionately.
+
+13.2 You can downgrade at any time. The downgrade takes effect at the start of your next Billing Period and Tribe will not refund the difference for the current one.
+
+14. Effect on rewards, points and status
+
+14.1 K-Points you have earned and not redeemed remain available for 90 days after your Subscription ends, after which they expire. Tribe will tell you the expiry date when it confirms your cancellation. Section 11 of the Rewards Service Terms sets out how this operates alongside the ordinary validity period.
+
+14.2 Benefits available only to subscribers - including any enhanced earn rate, Kolab Wallet Discounts and subscriber-only rewards - end when the Subscription ends.
+
+14.3 If you resubscribe within 90 days Tribe will restore any unexpired K-Points and X-Points and the Level you held. After that period, points and Level standing do not resume.
+
+15. Notices Tribe will send you
+
+15.1 Tribe will send you, at no charge and by in-App notification: confirmation when you subscribe; a reminder before a trial converts and before the first full payment; a reminder at least every six months telling you that the Subscription is running, what it costs and how to cancel; notice before any price change; notice before a Subscription with a fixed term ends; and confirmation when a Subscription ends.
+
+15.2 These notices are service messages. You will continue to receive them even if you have opted out of marketing.
+
+16. Disputed payments and chargebacks
+
+16.1 If you think a payment is wrong, contact Tribe first - this is usually faster than a chargeback. Your right to raise the matter with your card issuer or bank is unaffected.
+
+16.2 Where a chargeback is raised for a payment that was properly due, Tribe may recover the amount from you and may suspend the Subscription until it is settled.
+
+17. If Tribe changes or withdraws a plan
+
+17.1 Tribe may change what a plan includes, or withdraw a plan, on 30 days' notice. If a change is to your material disadvantage you may cancel with immediate effect and receive a proportionate refund for the unused part of the Billing Period.
+
+SCHEDULE 4
+
+MARKETING SERVICE TERMS
+
+These Marketing Service Terms govern promotional and marketing material issued in connection with the App, including material issued by Brand Partners and material issued under sponsorship arrangements. Terms used here are defined in section 1 of Schedule 3 and section 2 of Schedule 5.
+
+1. Status of Marketing Material
+
+1.1 Any advertisement, promotional message, offer summary, brochure, landing page, screenshot, social media post, influencer or creator content, email, in-app banner, push notification or other communication of a promotional nature issued by Tribe, by a Brand Partner or by any third party in connection with the App ("Marketing Material") is provided for general information only.
+
+1.2 Marketing Material does not form part of your agreement with Tribe. It is not an offer capable of acceptance, and no statement in it is a term, warranty, condition or representation on which you are entitled to rely.
+
+1.3 Your rights and obligations are set out exclusively in the Terms and the applicable Service Schedules, together with the Privacy Notice and any promotion-specific rules. Where Marketing Material is inconsistent with any of those documents, the document prevails.
+
+1.4 Nothing in this Schedule excludes or limits liability for fraud or fraudulent misrepresentation, for death or personal injury caused by negligence, or any liability or right that cannot lawfully be excluded or limited, including your rights under applicable consumer protection legislation.
+
+2. Illustrative content and indicative values
+
+2.1 Screenshots, mock-ups, sample account balances, example points totals, Level progressions, product imagery, merchandise depictions and worked examples shown in Marketing Material are illustrative only. They do not represent actual accounts, actual balances or benefits that you will receive.
+
+2.2 Where a benefit, saving, discount, cashback rate, points earn rate or reward value is expressed as "up to" a stated figure, or as a maximum, that figure is the best outcome available to a qualifying user in the most favourable circumstances. It is not typical and it is not what you should expect to receive.
+
+2.3 Prices, exchange rates, fees, availability and reward values shown in Marketing Material are correct only at the time of publication and may change without notice. The values displayed in the App at the point of transaction are the operative ones.
+
+3. Financial products and services - no advice
+
+3.1 Kolab is a trading name of Veloce Esports Limited, registered address 58a Bronsart Road, London, England, SW6 6AA, registered in England and Wales with company number 11135021. Banking, payment, foreign exchange, e-money and the Kolab Visa® Debit Card, together with the card services referred to in any Marketing Material, are provided by Equals Money International Ltd pursuant to a licence from Visa Inc. Equals Money International Ltd is authorised by the Financial Conduct Authority to conduct electronic money service activities under the Electronic Money Regulations 2011 (reference 900493). Visa is a registered trademark of Visa Inc. Payment services are provided by Equals Money Plc, registered in England and Wales with company number 05539698, which is authorised and regulated by the Financial Conduct Authority to provide payment services (FCA number 488396).
+
+3.2 Nothing in Marketing Material is financial, investment, tax or legal advice, or a personal recommendation to acquire, hold or dispose of any product. You should consider whether a product is appropriate for your circumstances and take independent advice if you are unsure.
+
+3.3 References to protection of funds, safeguarding arrangements or deposit protection apply only where expressly stated in the applicable Service Schedule and only in respect of the entity identified there.
+
+3.4 Marketing Material is not directed at, and must not be relied on by, any person in a jurisdiction where its publication or availability would be contrary to local law or regulation.
+
+4. Rewards, K-Points and X-Points
+
+4.1 X-Points have no cash value, are not legal tender, money, e-money, a deposit, a security or a financial instrument, and confer no proprietary right. K-Points are a contractual entitlement to convert or redeem in accordance with sections 7 and 10 of the Rewards Service Terms, and Marketing Material describing them must be read with those provisions.
+
+4.2 X-Points and Levels (Pit-Lane, Podium and Champion) are separate from K-Points, cannot be redeemed, transferred or exchanged, and do not convert into K-Points or Kolab Cashback. A Level is separate from a Plan.
+
+4.3 Earn rates, Qualifying Activity, conversion and redemption values, Level thresholds and the rewards available may be varied or withdrawn in accordance with section 12 of the Rewards Service Terms. Promotional or enhanced earn rates apply only for the stated period and only to qualifying activity.
+
+4.4 Rewards are subject to availability. Where a reward is unavailable Tribe may substitute an alternative of equivalent or greater value with your agreement, or reverse the redemption and restore the K-Points.
+
+5. Third-party offers, experiences and merchandise
+
+5.1 Certain offers, discounts, gift cards, travel, tickets, hospitality, experiences and merchandise promoted in the App are supplied by third parties. Where that is the case, your contract for the supply is with the third-party supplier on its own terms, and Tribe acts only as a disclosed intermediary.
+
+5.2 Tribe does not control and is not responsible for the description, availability, quality, safety, delivery, cancellation or refund of third-party goods, services or experiences, save to the extent Tribe is liable as a supplier or intermediary under applicable law.
+
+5.3 Inclusion of a third-party offer does not constitute a recommendation, endorsement or verification of that third party by Tribe or by any Brand Partner.
+
+6. Brand Partners, sponsorship and endorsement
+
+6.1 The App may be presented under the brand of a club, team, rights holder, series or other Brand Partner. Names, logos and marks of Brand Partners, competitions, teams, athletes and events are used under licence and remain the property of their owners.
+
+6.2 Unless expressly stated, reference to a Brand Partner, sponsorship title, team, driver, rider, athlete, event or competition does not imply that person or organisation endorses, recommends, approves or is responsible for any financial product or service available through the App.
+
+6.3 Where Tribe holds an official partnership or sponsorship designation, that designation describes a commercial arrangement only and does not describe the regulatory status of Tribe or of Equals Money.
+
+7. Eligibility, availability and geography
+
+7.1 Features, offers, rewards and products vary by country, by Brand Partner deployment and by user, and are subject to eligibility criteria, identity verification and, where applicable, credit and affordability assessment. Marketing Material describes the maximum feature set and not the set available to you.
+
+7.2 Financial products are available only to persons aged 18 or over who are resident in an eligible jurisdiction. Where the App is available to users under 18, Marketing Material for financial products is not directed at those users.
+
+7.3 Tribe may withdraw, suspend or restrict any offer or feature in any territory at any time, including where required to do so by a regulator, by Equals Money, by a Brand Partner or by a scheme rule.
+
+8. Statements about future features
+
+8.1 Statements describing features as forthcoming, in development, in beta, "coming soon" or on the roadmap are statements of current intention only. They are not commitments and do not create any obligation to develop, launch or maintain any feature.
+
+8.2 Forward-looking statements about growth, membership numbers, partnerships or performance are not directed at consumers as an inducement to acquire any product and must not be relied on for that purpose.
+
+9. Prize draws, competitions and time-limited promotions
+
+9.1 Each prize draw, competition, sweepstake or time-limited promotion is governed by its own published rules, which prevail over any summary in Marketing Material and over this Schedule to the extent of any inconsistency. Section 14 of the Rewards Service Terms also applies to prize draws entered with X-Points.
+
+9.2 Promotional rules will state the promoter, the opening and closing dates, eligibility, the method of entry (including any free method of entry where required), the prize, and how winners are selected and notified.
+
+10. Marketing communications and personalisation
+
+10.1 Tribe will send you marketing communications by electronic means only where you have consented or where Tribe is otherwise permitted by law to do so. You may withdraw consent or opt out at any time in the App under Profile > Notifications or by using the toggle links to unsubscribe from each marketing source.
+
+10.2 Opting out of marketing does not stop service, security, transaction, regulatory or account-related messages, which Tribe and Equals Money must continue to send.
+
+10.3 Tribe personalises offers and content using information about your profile, activity and preferences, including through automated processing. The categories of data used, the logic applied and your rights in relation to that processing are set out in the Privacy Notice.
+
+10.4 Where a Brand Partner or third party wishes to send you its own marketing, it will do so under its own privacy notice and only where you have given the necessary consent.
+
+11. Community and user-generated content
+
+11.1 Where you post content in community features and have granted Tribe the licence set out in the App Terms of Use, Tribe may reproduce that content in Marketing Material. Tribe will not use your content in a way that implies you endorse a financial product unless you have separately agreed.
+
+12. Errors and corrections
+
+12.1 Tribe may correct any manifest error in Marketing Material, and may withdraw or amend an offer that has been published in error, without liability, provided it acts promptly and does not withdraw a benefit you have already validly acquired.
+
+SCHEDULE 5
+
+REWARDS SERVICE TERMS
+
+This Schedule governs Kolab Rewards (the "Programme"): Kolab Cashback, K-Points, X-Points, Kolab Wallet Discounts and, when launched, Kolab Memberships & Subscriptions. It forms part of your agreement with Tribe and should be read with the Kolab Terms & Conditions, the Privacy Notice and the Subscription terms.
+
+1. About these Rewards Service Terms
+
+1.1 These Rewards Service Terms govern Kolab Rewards (the "Programme"): Kolab Cashback, K-Points, X-Points, Kolab Wallet Discounts and, when launched, Kolab Memberships & Subscriptions.
+
+1.2 The Programme is operated by Tribe Ltd, Beauport House, L'Avenue de la Commune, St Peter, Jersey JE3 7BY ("Tribe"). It is not operated by, and is not the responsibility of, Equals Money or any other bank, card issuer, team, series, creator or Brand Partner featured in the App.
+
+1.3 These Rewards Service Terms should be read with the Terms, Schedule 3 (including the definitions in section 1 of that Schedule), Schedule 4 and the Privacy Notice.
+
+1.4 Where these Rewards Service Terms conflict with the Help Centre, the FAQ or any other Kolab guidance on a rewards matter, these Rewards Service Terms prevail. Where they conflict with the published rules of a specific promotion or prize draw, those rules prevail for that promotion only.
+
+2. Definitions
+
+Term
+
+Meaning
+
+Eligible Territories
+
+Means users resident in:
+
+United Kingdom
+
+Germany
+
+France
+
+Italy
+
+Spain
+
+Netherlands
+
+Belgium
+
+Austria
+
+Hungary
+
+Portugal
+
+Kolab Wallet
+
+The wallet in the App through which eligible spend is made.
+
+Kolab Cashback
+
+Money back earned on eligible spend under section 6.
+
+K-Points
+
+The spendable points earned under section 4.1 and 4.3 and redeemed under section 7.
+
+X-Points
+
+The separate, non-spendable points earned under section 4.2 which determine your Level and enter you into prize draws. X-Points cannot be redeemed, spent, transferred, exchanged for cash or converted into K-Points or Cashback.
+
+Plan
+
+Your paid subscription: Everyday, Premium or Ultra. Your Plan sets your earn rates and which rewards you can access.
+
+Level
+
+Your earned standing: Pit-Lane, Podium or Champion, determined by X-Points under section 5. Your Level is separate from your Plan.
+
+Qualifying Activity
+
+Activity that earns K-Points, X-Points or Cashback, as published in the App and summarised in section 4.
+
+Member
+
+A person with a Kolab account who is eligible under section 3.
+
+Prize Draw Terms
+
+Means the Kolab Master Prize Draw Terms and Conditions, together with the Addendum for each prize draw, published at www.tribesystems.io/prize_draw and in the App, as amended from time to time. The Prize Draw Terms are provided by Tribe, form a separate agreement, and are not part of these Terms.
+
+3. Membership, Plans and eligibility
+
+3.1 Every Kolab subscriber is in the Programme automatically. There is nothing extra to join and no separate fee.
+
+3.2 Kolab comes in three Plans. Your Plan determines your earn rates and which rewards you can access. You can switch Plan at any time in Settings > Plan & Subscription; switching takes effect in line with section 13 of Schedule 3.
+
+Plan
+
+Price per month
+
+Headline rewards position
+
+Everyday
+
+£5 / €6
+
+Standard earn rates. Cashback up to 2% of spend.
+
+No Wallet Discounts.
+
+Premium
+
+£20 / €25
+
+Enhanced earn rates. Cashback up to 3% of spend.
+
+Wallet Discounts apply.
+
+Ultra
+
+£50 / €60
+
+Highest earn rates. Cashback up to 5% of spend.
+
+Highest Wallet Discounts.
+
+3.3 Membership is personal to you and limited to one account per person. You may not operate more than one account, or pool, trade, gift or sell K-Points, X-Points, Cashback or Level standing.
+
+3.4 You must be at least 18 years old to hold a Kolab Wallet and to earn Cashback or K-Points. Members aged 13 to 17 may hold a content-only account.
+
+3.5 The Programme is available in the Eligible Territories. Some Qualifying Activity, some rewards and some prize draws are available only in certain countries.
+
+4. Earning
+
+4.1 K-Points - the spendable ledger
+
+4.1.1 You earn K-Points on eligible spend through your Kolab Wallet, including Wallet spend, Travel bookings (Stays and Experiences), Shop purchases, and purchases of Kolab and Kolab Partner Special Offers.
+
+4.1.2 K-Points are earned at the following rates:
+
+Eligible activity
+
+Everyday
+
+Premium
+
+Ultra
+
+Eligible WALLET spend
+
+1 pt / £10
+
+1 pt / £4
+
+1 pt / £2
+
+Eligible TRAVEL spend
+
+1 pt / £10
+
+1 pt / £4
+
+1 pt / £2
+
+Eligible SHOP spend
+
+1 pt / £10
+
+1 pt / £4
+
+1 pt / £2
+
+Kolab Special Offers
+
+1 pt / £3
+
+1 pt / £2
+
+2 pts / £1
+
+Kolab-Partner Special Offers
+
+1 pt / £4
+
+1 pt / £2
+
+1 pt / £1
+
+4.1.3 K-Points are not earned on money transfers, Wallet top-ups, gambling transactions, payments to government bodies, point of sale purchases, fees, charges, interest, or any transaction that is later reversed, refunded or charged back. The full exclusion list is published in the App.
+
+4.1.4 K-Points are credited within 7 days of the transaction, or within 30 days for a purchase that can still be cancelled or returned.
+
+4.1.5 K-Points are valid for 3 years from the date of issue. See section 11.
+
+4.2 X-Points - the participation ledger
+
+4.2.1 X-Points are earned for participating in the App. They are recorded on a separate ledger from your K-Points. They cannot be redeemed, spent, withdrawn, transferred, gifted, sold, exchanged for cash, or converted into K-Points or Cashback, and they are not reduced when you spend K-Points.
+
+4.2.2 X-Points do two things: they determine your Level under section 5, and they determine your position on the monthly leaderboards. X-Points do not enter you into prize draws - see section 14.
+
+4.2.3 X-Points are earned at the following rates, and are subject to change. The list is not intended to be exhaustive, and your will find many more opportunities to earn X-Points in the Kolab app. Caps apply and for the items listed, are stated in the table:
+
+Activity
+
+Limits
+
+Everyday
+
+Premium
+
+Ultra
+
+Daily app open / streak
+
+1x per day
+
+2
+
+3
+
+5
+
+Vote in poll or make a prediction
+
+Capped at 3 per day
+
+10
+
+15
+
+25
+
+Correct prediction bonus
+
+Scales with the difficulty of the call
+
+50-100
+
+75-150
+
+100-200
+
+View flagged content item
+
+Capped at approx. 5 items per day
+
+1
+
+2
+
+3
+
+Comment or react
+
+Capped at 10 per day (anti-spam)
+
+5
+
+8
+
+12
+
+Share content (verified)
+
+One-time per item; tracked link
+
+25
+
+35
+
+50
+
+Referral - activated subscriber
+
+Credited on 3 months' retention
+
+500
+
+1,500
+
+3,000
+
+Profile / KYC completion
+
+One-off, not Plan-scaled
+
+250
+
+250
+
+250
+
+4.2.4 X-Points awarded for a given activity are shown in the App at the point you take part. Where the App and these Rewards Service Terms differ, the rate shown in the App at the time of the activity applies.
+
+4.2.5 Referral X-Points are credited only once the person you referred has subscribed to a Plan and the account has remained in good order for three complete months (or earlier at our discretion).
+
+4.2.6 X-Points are valid for 3 years from the date of issue and are not refundable or exchangeable for cash.
+
+4.3 Enhanced, promotional and offer earning
+
+4.3.1 Where Kolab or a Kolab partner runs a special offer, you may earn Cashback or K-Points at an enhanced rate. Enhanced rates apply only for the stated period, only to the stated products or services, and only to eligible Members.
+
+4.3.2 Earn rates are set by Plan. If you move to a lower Plan, the lower rate applies from the date the change takes effect; it is not applied retrospectively to points already earned.
+
+4.3.3 You can earn both Kolab Cashback and K-Points on the same spend where you shop through Wallet > SHOP.
+
+4.3.4 Promotional K-Points or X-Points may carry a shorter validity than section 4.1.5 or 4.2.6. Where they do, Tribe will tell you the expiry date when they are credited.
+
+4.4 Corrections, reversals and adjustments
+
+4.4.1 If K-Points, X-Points or Cashback are credited in error, or the underlying transaction is cancelled, returned, refunded, reversed or charged back, Tribe may deduct the corresponding amount. Tribe will tell you when Tribe do and why.
+
+4.4.2 If your balance is not sufficient to cover a deduction, it may go to zero and the shortfall may be applied against future earning.
+
+4.4.3 If you think a balance is wrong, contact Tribe within 90 days of the activity. Tribe will investigate and correct any error.
+
+5. Levels
+
+5.1 Your Level is determined by your X-Points:
+
+Level
+
+X-Points required
+
+What it gives you
+
+Pit-Lane
+
+Up to 10,000
+
+Entry level. Your Level shows on your profile and next to your comments. You appear on the monthly Pit-Lane leaderboard, and prizes are awarded each month to the members who earn the most X-Points in that Level. Winners are determined solely by X-Points earned in the month; where two members finish level, the prize goes to whoever reached the total first, never to a random selection.
+
+Podium
+
+Over 10,000
+
+Everything at Pit-Lane, plus early notification of selected drops, tickets, merchandise and experiences before they go wide; a Podium leaderboard with higher prizes than Pit-Lane; and faster X-Point accrual when you take part in the app.
+
+Champion
+
+Over 25,000
+
+Everything at Podium, plus priority access to experiences and Kolab events, allocated by Level first and then by X-Points earned in the qualifying period; a Champion leaderboard with the highest prizes; and the fastest X-Point accrual in the programme.
+
+5.2 Your Level is separate from your Plan. Subscribing to a higher Plan earns X-Points faster but does not by itself give you a Level, and reaching a Level does not change your Plan or its price.
+
+5.3 You move up as soon as you cross the threshold, and the benefits apply immediately.
+
+5.4 Levels are assessed on X-Points earned in the previous 12 months. If your qualifying X-Points fall below the threshold for your Level Tribe will tell you at least 30 days before your Level changes and explain what you would need to do to keep it.
+
+5.5 Level standing is personal, cannot be transferred or shared, and confers no rights beyond the benefits published for that Level.
+
+6. Kolab Cashback
+
+6.1 You earn Kolab Cashback on eligible everyday shopping made through the App by buying a digital shopping card in-app for a participating brand and using it to pay, in store or online.
+
+6.2 Cashback is earned at up to 2% of spend on Everyday, up to 3% on Premium and up to 5% on Ultra. The rate that applies to any purchase is the rate shown for that brand in the App at the time you buy the digital shopping card. "Up to" means the highest rate available; the rate on most purchases will be lower.
+
+6.3 The number of participating retailers available to you depends on your Plan: up to 2,000 on Everyday, up to 3,000 on Premium and over 4,000 on Ultra.
+
+6.4 Tribe reconcile Cashback at the end of each month. Once confirmed, you can withdraw it to your Kolab Wallet, (or hold it in your Kolab Savings account once available).
+
+6.5 Cashback that has been confirmed is money owed to you. Where your account is closed for any reason, Tribe will pay you any confirmed Cashback to your registered payment method / nominated account before closure completes.
+
+6.6 Cashback that has been earned but not yet confirmed may be withheld or reversed if the underlying purchase is cancelled, refunded or found not to qualify.
+
+7. Redeeming K-Points
+
+7.1 You can use your K-Points to redeem various rewards and discounts, allowing you to choose the option that best suits your needs. For instance:
+
+Redeem for Gift Cards; or
+
+Redeem them to receive a discount for an in-app SHOP purchase.
+
+7.2 Where you redeem K-Points against a SHOP purchase, you earn K-Points on that purchase at the rate in section 4.1.2.
+
+7.3 K-Points have no fixed monetary value, and their value depends on the chosen redemption method. To check all the ways to redeem your K-Points, go to 'K-Points' on the bottom menu in the Kolab app, and select Redeem. The exact discount or redemption value will be displayed in the app.
+
+7.4 Once redeemed, K-Points cannot be reinstated except where Tribe cannot supply what you redeemed them for, in which case Tribe will restore them to your balance or supply an alternative of equivalent or greater value with your agreement.
+
+7.5 Some rewards and Shop items are supplied by third parties. Your contract for those goods, services or experiences is with the supplier on its own terms; Tribe act as a disclosed intermediary. This does not affect any statutory right you have against Tribe.
+
+7.6 K-Points are redeemed on a first earned-first redeemed basis.
+
+8. Kolab Wallet Discounts
+
+8.1 Wallet Discounts are a benefit of the Premium and Ultra Plans only. They are not available on Everyday.
+
+Discount
+
+Everyday
+
+Premium
+
+Ultra
+
+International transfer fees
+
+-
+
+Save up to 20% per transaction
+
+Save up to 50% per transaction
+
+FX conversion fees
+
+-
+
+0.5% discount per transaction
+
+1% discount per transaction
+
+ATM withdrawal fees
+
+-
+
+£0.50 discount each withdrawal
+
+£1.50 discount each withdrawal
+
+8.2 Discounts apply to the fees Tribe charge. They do not apply to fees charged by another bank, ATM operator or intermediary, over which Tribe have no control.
+
+8.3 The underlying fees and FX rates are set out in Annex A below, showing for convenience the fees after any discount as applicable to each tier has been applied and, may change in accordance with the Wallet terms.
+
+8.4 Wallet Discounts stop applying immediately if you move to a Plan that does not include them.
+
+9. Kolab Memberships & Subscriptions
+
+9.1 Kolab Memberships & Subscriptions - partner memberships and subscriptions at reduced rates or enhanced service levels - has not launched. No Member has any entitlement in respect of it, and any description of it is a statement of current intention only and not a commitment, in line with section 8 of Schedule 4.
+
+9.2 Tribe will publish the terms of that programme, and update these Rewards Service Terms, before it launches.
+
+10. What rewards are, and what they are not
+
+10.1 X-Points have no cash value. They are not money, electronic money, a deposit, a currency, a security or a means of payment, they cannot be bought, and they are not your property. They are a personal contractual entitlement to a Level and to prize draw entry under these Rewards Service Terms, and nothing more.
+
+10.2 K-Points cannot be bought with money and are earned only through eligible spend. Until they are converted or redeemed under section 7, they are a personal contractual entitlement and not money, electronic money or a deposit.
+
+10.3 Confirmed Cashback is an amount Tribe owe you under these Rewards Service Terms. Once Claimed it is held in your Kolab Wallet and is subject to the Wallet terms and section 6.
+
+10.4 Nothing in this section limits your right to redeem or receive rewards you have validly earned, or your statutory rights.
+
+11. Expiry, inactivity and account closure
+
+11.1 Subject to section 11.3, K-Points and X-Points expire 3 years after the date they are issued, unless a shorter promotional validity applies under section 4.3.4. The App shows your expiry dates and Tribe will remind you at least 30 days before a material amount expires.
+
+11.2 If your account is inactive for 24 consecutive months, unredeemed K-Points and X-Points expire and your Level resets. Any Qualifying Activity resets the inactivity clock. Tribe will warn you at least 30 days beforehand.
+
+11.3 If your subscription ends but your account stays open, unredeemed K-Points remain available for 90 days and then expire, and Plan-linked benefits including Wallet Discounts and enhanced earn rates end immediately. This mirrors section 14 of Schedule 3.
+
+11.4 If you close your account, Tribe will pay you any confirmed Cashback under section 6.5. Unredeemed K-Points and X-Points remain available for 90 days from closure and then expire.
+
+11.5 On the death of a Member the account will be closed. Confirmed Cashback will be paid to the estate. K-Points and X-Points will lapse and cannot pass to an estate or beneficiary.
+
+12. Changes to the Programme
+
+12.1 Tribe may change Qualifying Activity, earn rates, caps, Level thresholds, the K-Point conversion rate, redemption minimums, Cashback rates, Wallet Discounts, the participating retailer list and these Rewards Service Terms. Tribe will only do so for a valid reason, including a change in our costs, a change in the law or regulation, a change to a partner or retailer arrangement, a change in the App, or to prevent abuse.
+
+12.2 For a change that is to your disadvantage Tribe will give you at least 30 days' notice in the App and by email, telling you what is changing and why. Neutral or beneficial changes may be made immediately.
+
+12.3 K-Points, X-Points, Cashback and Level standing you have already earned will be honoured on the terms that applied when you earned them for at least 30 days after a disadvantageous change, so you have a fair opportunity to redeem.
+
+12.4 If you do not accept a change you can move Plan or close your account. Sections 11.3 and 11.4 will then apply.
+
+12.5 Tribe may withdraw the Programme, or any individual reward stream, on at least 30 days' notice. During that period you will be able to convert or redeem your K-Points and will be paid any confirmed Cashback.
+
+13. Misuse, fraud and suspension
+
+13.1 Tribe may suspend earning or redemption, cancel points, reset a Level, withhold Cashback or close an account where Tribe reasonably believe a Member has:
+
+(a) obtained rewards by fraud, misrepresentation or a transaction that was not genuine;
+
+(b) operated more than one account, or pooled, traded or sold points, Cashback or Level standing;
+
+(c) used bots, scripts, emulators or other automated means to generate activity, or manipulated streaks, polls, predictions or referrals;
+
+(d) exploited an error in the Programme rather than reporting it; or
+
+(e) materially breached the Terms or the Community Guidelines.
+
+13.2 Tribe will tell you what Tribe have done and why unless the law prevents Tribe. You can challenge the decision under section 15.4 and Tribe will review it.
+
+13.3 Tribe will act proportionately. Where the issue affects only some rewards, Tribe will not cancel the rest. Confirmed Cashback will not be withheld other than in respect of the transactions actually affected.
+
+14. Prize draws
+
+14.1 Kolab runs prize draws from time to time. Each draw is governed by the Master Prize Draw Terms and the Addendum for that draw, and not by this Schedule.
+
+14.2 Prize draws are free to enter and are open to anyone eligible under the Master Prize Draw Terms, whether or not they hold a Kolab account and whether or not they hold a paid subscription. Everyone who enters has one entry and the same chance of winning.
+
+14.3 Your Plan, your Level, your X-Points, your K-Points, your Cashback and your spend give you no additional entry, no better chance of winning and no advantage of any kind in a prize draw.
+
+14.4 X-Points determine your Level under section 5 and your position on the monthly leaderboards. They do not enter you into a prize draw and cannot be exchanged for entries.
+
+14.5 Where a prize is allocated by reference to measured performance rather than by chance - including the monthly leaderboards in section 5 and any challenge or competition under the Engage Service Terms - it is not a prize draw and the Master Prize Draw Terms do not apply to it.
+
+14.6 Prize draws are open only to persons aged 18 or over. Members who hold a content-only account under paragraph 3.4 are not eligible to enter.
+
+15. Tax, data, complaints and governing law
+
+15.1 You are responsible for any tax arising on rewards you receive. Tribe do not give tax advice.
+
+15.2 Tribe process personal data to run the Programme, including your activity, ledgers, transactions and redemptions, and Tribe use automated processing to personalise offers. The Privacy Notice explains the lawful bases, the logic involved and your rights.
+
+15.3 Where a reward, offer or prize is provided by a creator, team, series, retailer or other third party, their name and marks are used under licence and their involvement does not make them a party to these Rewards Service Terms.
+
+15.4 If something has gone wrong, contact Tribe as set out in Contact Us in the App. Tribe will acknowledge within 5 business days and aim to resolve within 14 business days. If you are not satisfied you may refer the matter to Tribe's Alternative Dispute Resolution (ADR) Service provider, at https://disputeresolutionservices.org/jersey-dispute-resolution-service/ or other relevant scheme as notified herein.
+
+15.5 Governing law and jurisdiction of these Rewards Service Terms are dealt with in paragraph 1.6 of Schedule 3.
+
+SCHEDULE 6
+
+SHOP SERVICE TERMS
+
+These Shop Service Terms govern purchases of physical products through the Kolab app and the Kolab online shop. Terms used here are defined in section 1 of Schedule 3 and section 2 of Schedule 5.
+
+1. These terms and who you are buying from
+
+1.1 These Shop Service Terms apply when you buy a physical product from the Kolab shop, in the App or online (the "Shop"). They form part of the Terms.
+
+1.2 Products are sold by Tribe Ltd with registered number 142759 and whose registered office is at Beauport House, L'Avenue de la Commune, St Peter, Jersey JE3 7BY together with the Kolab retail entity ("Tribe", and in this Schedule "we", "us"). Equals Money does not sell products through the Shop and is not a party to any purchase you make.
+
+1.3 You can contact us about an order at shop@tribe.fan or through the contact form in the App.
+
+1.4 You must be aged 18 or over to buy from the Shop.
+
+2. Products, drops and availability
+
+2.1 Product images, descriptions, colours and measurements are as accurate as we can reasonably make them, but screens vary and small variations do not mean a product is faulty.
+
+2.2 Some products are released as limited drops. Where a product is limited or unique we will say so, and it may not be restocked.
+
+2.3 All products are subject to availability. If a product is unavailable after you have ordered it, section 12 applies.
+
+2.4 Where your Level gives you early notification of a drop under Schedule 5, that notification affects when you are told about a product. It does not reserve stock for you and does not guarantee that you will be able to buy it.
+
+3. Your order and when a contract is made
+
+3.1 Placing an order is an offer to buy. We are not obliged to accept it.
+
+3.2 We will send you an order acknowledgement by email. That acknowledgement is not acceptance.
+
+3.3 A contract is made between you and us only when we send you a shipment confirmation email. Until then either of us may cancel without liability, and we will refund any payment taken in full.
+
+3.4 If you have not received an order acknowledgement within one hour of placing an order, it is likely the order was not placed. Check your spam folder, then contact us before ordering again.
+
+3.5 Once an order has been shipped we cannot change the delivery address or the contents. Before shipment, contact us and we will change what we reasonably can. This does not affect your right to cancel under section 8.
+
+4. Price, taxes and duties
+
+4.1 The price of a product is the price shown at the time you order, and includes VAT or equivalent sales tax where we are required to display it that way. Delivery charges are shown separately before you pay.
+
+4.2 For delivery to the United Kingdom, the European Union, Canada and the United States, taxes and duties are calculated and paid at checkout. The price you see at checkout is the total you pay and there is nothing further to pay on delivery.
+
+4.3 For delivery to any other destination, local customs duties, import taxes and handling fees may be charged on arrival and are your responsibility. We cannot tell you in advance what they will be, and we cannot refund them if you later return the product.
+
+4.4 If we discover an error in the price of a product you have ordered, we will contact you before shipping to ask whether you wish to continue at the correct price or cancel. If the pricing error is obvious and could reasonably have been recognised as an error, we do not have to supply at the incorrect price.
+
+5. Paying
+
+5.1 You can pay using your Kolab Wallet, or by debit or credit card at checkout, and you may part-pay with K-Points where the Shop offers that option and you hold the minimum balance set out in section 7 of Schedule 5.
+
+5.2 Card payments are processed by our payment provider. Full card details are not stored by the App.
+
+5.3 We take payment at the point of order. If we do not accept your order, or we cancel it under section 12, we refund in full.
+
+6. K-Points and Cashback on Shop purchases
+
+6.1 Eligible Shop purchases earn K-Points at the rate for your Plan set out in section 4.1.2 of Schedule 5.
+
+6.2 Where you redeem K-Points against a purchase and later cancel or return it, we refund the money you paid and restore the K-Points you redeemed. We also deduct the K-Points that purchase earned, in accordance with section 4.4 of Schedule 5.
+
+6.3 Where a purchase earned Kolab Cashback and is later refunded, the Cashback is reversed.
+
+7. Delivery
+
+7.1 Orders are processed and dispatched from the United Kingdom within 5 business days of the order, excluding public holidays. We will tell you if that is going to take materially longer.
+
+7.2 We will send a shipment confirmation email with tracking details. Tracking information can take up to 24 hours to appear with the carrier.
+
+7.3 We use a range of carriers and select one based on the delivery address.
+
+7.4 We deliver to the destinations listed at [URL]. That list may change, and the list current at the time of your order applies.
+
+7.5 Unless we agree a longer period with you, we will deliver within 30 days of the day the contract is made. If we do not, you may treat the contract as at an end and receive a full refund.
+
+If nobody is available to take delivery, the carrier will leave a note explaining how to rearrange delivery or collect the goods.
+
+8. Risk, ownership and undelivered parcels
+
+8.1 Goods remain at our risk until they come into your physical possession, or into the physical possession of a person you have identified to take delivery of them.
+
+8.2 Where you have arranged your own carrier, rather than choosing one we offer, risk passes to you when we hand the goods to that carrier.
+
+8.3 You own the goods once we have received payment in full and they have been delivered.
+
+8.4 If your tracking has not updated for 20 consecutive days for a UK delivery, or 30 for an international delivery, contact us and we will investigate with the carrier. If the goods have not been delivered to you we will, at your choice, send a replacement where stock allows or refund you in full.
+
+8.5 A tracking status of "delivered" is evidence that delivery took place but is not conclusive. If you tell us that you did not receive the goods we will investigate with the carrier before reaching a decision, and we will explain that decision to you.
+
+8.6 If a parcel is returned to us undelivered, we will contact you. We will resend it where we reasonably can, and otherwise refund you in full.
+
+9. Changing your mind
+
+9.1 You may cancel your order for any reason within 14 days of the day you, or someone you have named, receives the goods. You do not need to give a reason.
+
+9.2 To cancel, tell us clearly - by email to shop@tribe.fan, through the Returns Portal, or using the model cancellation form at www.tribesystems.io. Any clear statement is enough.
+
+9.3 After telling us, send the goods back within 14 days.
+
+9.4 You are responsible for the cost of returning the goods. A prepaid label can be generated through the Returns Portal and its cost will be deducted from your refund. We tell you the cost before you use it.
+
+9.5 You may handle and inspect the goods as you would in a shop. If you handle them beyond that, and their value is reduced as a result, we may deduct the reduction from your refund. We will tell you the amount and why.
+
+9.6 We will refund the price you paid for the goods, together with the basic delivery charge for sending them to you. Where you chose a delivery upgrade, we refund the basic rate and keep the difference.
+
+9.7 We refund within 14 days of receiving the goods back, or within 14 days of you providing evidence that you have sent them, whichever is earlier. Refunds go to the payment method you used.
+
+9.8 The right in this section does not apply to goods made to your specification or clearly personalised, or to sealed goods that are not suitable for return for health protection or hygiene reasons where the seal has been broken. We identify any such product on its product page before you buy.
+
+10. Faulty, damaged or incorrect items
+
+10.1 This section is in addition to section 9 and does not limit it.
+
+10.2 Goods we supply must be as described, of satisfactory quality and fit for any purpose you made known to us before buying.
+
+10.3 If goods are faulty, damaged or not what you ordered, contact us at shop@[domain] with your order number and photographs. We will tell you what to do next and we pay the cost of return.
+
+10.4 Your main remedies: within 30 days of receipt you may reject the goods and receive a full refund. After 30 days and within six months you may ask for a repair or replacement, and if that fails you may claim a refund, which may be reduced to reflect the use you have had. Your rights are not limited to six months and are not lost because you did not report the fault within any particular period.
+
+10.5 Nothing in these Shop Service Terms affects your statutory rights.
+
+11. Exchanges
+
+11.1 Because stock changes quickly we do not hold items for exchange. To change a size or a product, return the original under section 9 or section 10 and place a new order.
+
+11.2 Check the size guide and product details before ordering. Section 9 still applies if the fit is wrong.
+
+12. If we cancel or cannot supply
+
+12.1 We may cancel an order and refund you in full where the product is out of stock, where there has been a pricing or description error, where we cannot deliver to your address, where we are required to do so by law or by trade or sanctions restrictions, or where we reasonably suspect fraud.
+
+12.2 We will tell you promptly, explain why, and refund within 14 days.
+
+12.3 If we cancel for a reason within our control and you are put to additional expense, we will deal with that fairly.
+
+13. Pre-orders
+
+13.1 A pre-order lets you order a product before it is available. The estimated shipping date is shown at the time you order.
+
+13.2 Pre-orders are operated using [Purple Dot], a third-party pre-order service. [Purple Dot] provides the pre-order record, shipping-date notifications and the self-service portal at [URL].
+
+13.3 You can pay for a pre-order using your Kolab Wallet or by card at checkout. We will tell you when payment is taken.
+
+13.4 Your money is held [by [Purple Dot] / in a separate account] until your pre-order ships, and is refundable in full at any time before shipment.
+
+13.5 If the estimated shipping date changes, we will email you. You can also check the current estimate in the self-service portal at any time.
+
+You may cancel a pre-order at any time before it ships, for a full refund by emailing shop@tribe.fan. Refunds are made to the payment method you used and are processed within 3-5 business days, though your bank may take longer to show them.
+
+13.7 If we cannot supply a pre-ordered product at all, we will tell you and refund you in full.
+
+13.8 Once a pre-order ships, sections 8, 9 and 10 apply as they do to any other order, and your 14-day cancellation period runs from delivery.
+
+13.9 You can update the email address or delivery address on a pre-order through the self-service portal or by emailing shop@tribe.fan. We will send an updated confirmation.
+
+14. Our liability to you
+
+14.1 If we fail to comply with these Shop Service Terms we are responsible for loss or damage you suffer that is a foreseeable result of that failure. We are not responsible for loss or damage that is not foreseeable.
+
+14.2 We do not exclude or limit our liability where it would be unlawful to do so, including liability for death or personal injury caused by our negligence, for fraud, for defective products under the Consumer Protection Act 1987, or for breach of your statutory rights in relation to the goods.
+
+14.3 We supply products for domestic and private use. We are not liable for business losses.
+
+15. Intellectual property
+
+15.1 Product designs, branding, images and content in the Shop belong to us or to our licensors, including Brand Partners whose marks appear on products. Buying a product gives you the product, not any right in the underlying intellectual property.
+
+15.2 You may not resell Shop products in the course of a business, or use our or a Brand Partner's marks, without written permission.
+
+16. Events outside our control
+
+16.1 We are not responsible for delays or failures caused by events outside our reasonable control. We will tell you as soon as we can and take reasonable steps to reduce the effect on you. If the delay is substantial you may cancel and receive a full refund for anything not yet delivered.
+
+17. Complaints
+
+17.1 Contact us at support@tribe.fan or through the in-app contact form. We will acknowledge within 5 business days and aim to resolve within 14 business days.
+
+17.2 If you are not satisfied you may refer the matter to Tribe's Alternative Dispute Resolution (ADR) Service provider, at https://disputeresolutionservices.org/jersey-dispute-resolution-service/ or other relevant scheme as notified herein. Nothing here affects your right to bring court proceedings.
+
+18. Governing law
+
+18.1 These Shop Service Terms and any dispute arising from them are governed by the laws of Jersey, and you and Tribe submit to the jurisdiction of the courts of Jersey, in line with paragraph 1.6 of Schedule 3.
+
+18.2 If you are resident in the United Kingdom or in a member state of the European Union, you keep the benefit of any mandatory protections of the law of your country of residence which cannot be excluded by agreement, and you may bring proceedings in the courts of that country. Sections 9 and 10 are drafted to meet those protections.
+
+SCHEDULE 7
+
+ENGAGE SERVICE TERMS
+
+These Engage Service Terms govern the Engage tab in the Kolab app. Terms used here are defined in section 1 of Schedule 3 and section 2 of Schedule 5.
+
+1. About these Engage Service Terms
+
+1.1 These Engage Service Terms apply when you use the Engage tab in the App ("Engage"). They form part of the Terms.
+
+1.2 Engage is provided by Tribe. It is not provided by Equals Money, and Equals Money is not a party to it.
+
+1.3 Engage includes polls, predictions, fantasy games, challenges and hot lap competitions, connected game and simulator results, leaderboards, live event data, and community features where you can post, react and compete with other members.
+
+1.4 Where a particular activity has its own published rules, those rules apply to that activity in addition to these Engage Service Terms and prevail for that activity only. Prize draws are governed by the Prize Draw Terms and are not part of Engage.
+
+2. Who can take part
+
+2.1 You must hold a Kolab account and be aged 18 or over to take part in Engage.
+
+2.2 Some activities are available only in certain countries, or only where a connected game or platform is available to you.
+
+2.3 You may hold only one account and may take part only as yourself. Taking part through another person's account, or allowing another person to use yours, is a breach of these terms.
+
+3. X-Points earned in Engage
+
+3.1 Taking part in Engage earns X-Points at the rates published in the App and set out in section 4.2 of Schedule 5. X-Points count towards your Level and towards the monthly leaderboards.
+
+3.2 X-Points earned for predictions are awarded at the same rate on every subscription Plan.
+
+3.3 X-Points have no cash value, cannot be exchanged for cash and cannot be converted into K-Points or Kolab Cashback, as set out in section 10 of Schedule 5.
+
+4. Free to take part - no stake and no wager
+
+4.1 Taking part in any Engage activity is free. You never pay to enter an activity, and no payment, subscription, Plan, Level or points balance is required to take part.
+
+4.2 You do not stake or risk anything by taking part. No Engage activity involves a bet, a wager or a stake of money or money's worth, and nothing you hold is lost or reduced by taking part or by being unsuccessful.
+
+4.3 You may not stake, wager, bet or gamble with another member, whether in money, X-Points, K-Points, Kolab Cashback, goods or anything else, and you may not use Engage to arrange, promote or settle any such arrangement. We may suspend or close the account of any member who does.
+
+4.4 No prize is awarded for the outcome of an individual prediction or of any single real-world event. Where prizes are awarded in connection with Engage, they are awarded for measured performance over a period, under published rules, and never at random.
+
+4.5 We do not offer betting, gaming or lottery services, and Engage is not a gambling product.
+
+5. Polls and predictions
+
+5.1 Polls and predictions are for entertainment and community participation. They earn X-Points and nothing else.
+
+5.2 A prediction closes at the time stated in the App. Predictions submitted after that time do not count.
+
+5.3 Where a prediction bonus is available for a correct call, the bonus varies with how difficult the call was, as stated in the App at the time you take part.
+
+5.4 Predictions are settled against the official result published by the relevant governing body or event organiser. Where a result is subsequently amended by the organiser, we may adjust X-Points awarded, and we will tell you if we do.
+
+5.5 Where data used to settle a prediction turns out to be inaccurate, incomplete or delayed, we may void the prediction and restore any X-Points position. We will act fairly and consistently across all affected members.
+
+6. Fantasy games
+
+6.1 Fantasy games let you select a team or line-up and score points based on the performance of real competitors.
+
+6.2 Entry is free. There is no entry fee, no buy-in and no prize pool funded by participants.
+
+6.3 Your subscription Plan gives you no advantage in a fantasy game - no additional selections, no extra transfers, no scoring multiplier and no earlier access to team selection.
+
+6.4 Each fantasy game has its own published rules covering the selection window, scoring, transfers, deadlines and how the game is settled.
+
+6.5 Scoring is calculated from the data described in section 12. Where that data is corrected by the source, we may recalculate scores, and we will tell affected members.
+
+7. Challenges, hot laps and leaderboards
+
+7.1 Challenges let you compete against other members on measured performance, including lap times set in the App or in a connected game or simulator.
+
+7.2 Results are determined solely by measured performance. Where two or more members record the same result, the higher position goes to whoever recorded it first. No position on a leaderboard is ever decided at random.
+
+7.3 Each challenge states the track, car, conditions, permitted assists and setup restrictions, the qualifying period and how results are verified.
+
+7.4 Leaderboards may be reset periodically. We will say in advance when a leaderboard resets.
+
+7.5 Where prizes are attached to a challenge or leaderboard, they are awarded under the published rules for that challenge and under section 5 of Schedule 5.
+
+8. Connecting a game, simulator or platform account
+
+8.1 You may be able to connect a third-party game, simulator, racing platform or console account so that results you set outside the App can appear in Engage.
+
+8.2 By connecting an account you confirm that it is yours, that you are entitled to connect it, and that doing so does not breach the terms of the game, platform or service concerned. You are responsible for checking those terms.
+
+8.3 We only access the data needed to import and verify your results, as described at the point you connect and in the Privacy Notice. You can disconnect at any time in Profile > Connected accounts. Disconnecting stops further imports and does not remove results already recorded, unless you ask us to remove them.
+
+8.4 Games, platforms and simulators are operated by third parties. We do not control them, we are not responsible for their availability, accuracy or content, and a connection may stop working if the third party changes or withdraws access.
+
+8.5 Nothing in Engage is endorsed by, associated with or sponsored by any game publisher, platform operator, team, series or rights holder unless we expressly say so.
+
+9. Submitting results, verification and fair play
+
+9.1 When you submit a result, whether set in the App or imported from a connected account, you confirm that you set it yourself, in the conditions the challenge specifies, without any prohibited assistance.
+
+9.2 You must not: use modified game files, cheats, trainers, scripts, macros or unauthorised hardware; use assists prohibited by the challenge; exploit a bug in a game or in the App; submit a result set by another person; manipulate telemetry or timing data; or use more than one account to improve a position.
+
+9.3 We may verify any result, including by requesting replay files, telemetry, video evidence or platform confirmation. We may hold a result pending verification.
+
+9.4 We may void a result, adjust a leaderboard, remove X-Points, withhold a prize or suspend an account where we reasonably believe a result was not set in accordance with these terms. We will tell the member and the reason unless the law prevents us, and they may challenge the decision under section 19.
+
+9.5 We will act proportionately. Where only one result is affected, we will not remove a member's other results or entitlements.
+
+9.6 Where a challenge carries a prize, we may require verification before the prize is awarded, and may require a winner to repeat a performance under supervised conditions.
+
+10. Your content
+
+10.1 You keep ownership of anything you post, upload or submit in Engage, including comments, images, replays, telemetry, lap data and profile content ("Your Content").
+
+10.2 You grant us a non-exclusive, worldwide, royalty-free licence to host, store, reproduce, adapt, publish, display and distribute Your Content for the purpose of operating, promoting and improving the App and Engage, including displaying it on leaderboards and in community features. That licence lasts while Your Content is on the service and for a reasonable period afterwards for backup and record purposes.
+
+10.3 We will not use Your Content in a way that implies you endorse a financial product unless you have separately agreed. This is the licence referred to in section 11.1 of Schedule 4.
+
+10.4 You confirm that Your Content is yours to post, that it does not infringe anyone else's rights, and that it complies with the Community Guidelines.
+
+10.5 You can delete Your Content at any time. We will remove it from the service, though it may remain in backups for a period and we may keep a record where we are required to.
+
+11. Community standards and online safety
+
+11.1 Engage includes features that let members share content with, and see content from, other members. The Community Guidelines apply to everything you post.
+
+11.2 You must not post content that is illegal, abusive, harassing, hateful, threatening, sexual, defamatory, or that infringes another person's rights or privacy; impersonate anyone; or use Engage to promote gambling, betting or any peer-to-peer staking arrangement.
+
+11.3 You can report content or another member from within Engage. We will review reports and tell you the outcome. We operate a complaints route under section 19 if you disagree with a decision we take about your content or your account.
+
+11.4 We may remove content, restrict features, or suspend or close an account where content or behaviour breaches these terms or the Community Guidelines. Where we do, we will tell the member what we have done and why, unless the law prevents us.
+
+11.5 We use a combination of automated systems and human review to identify content that breaches these terms.
+
+12. Live event data
+
+12.1 Engage may display timing, scoring, standings and other data relating to real sporting events. That data is supplied by third parties and, where applicable, under licence from the relevant rights holder.
+
+12.2 Live data is provided for information and entertainment. It may be delayed, incomplete or subsequently corrected, and it is not the official record. The official result published by the governing body or event organiser prevails.
+
+12.3 You may not copy, extract, redistribute, resell, scrape or make systematic use of any data displayed in Engage, or use it for betting, trading or any commercial purpose. Data displayed in Engage is protected by database rights and other intellectual property rights belonging to us or to our licensors.
+
+12.4 Display of data relating to an event, series, team or competitor does not indicate any association with, endorsement by or sponsorship of Kolab or Tribe by that event, series, team or competitor.
+
+12.5 We may change, suspend or withdraw a data feed at any time, including where a licence ends or a supplier changes its terms. Where an Engage activity depends on a feed that becomes unavailable, section 13 applies.
+
+13. Availability and changes
+
+13.1 We may add, change, suspend or withdraw any Engage activity or feature. Where a change disadvantages you materially we will give reasonable notice, and section 12 of Schedule 5 applies to any change affecting X-Points already earned.
+
+13.2 If an activity has to be abandoned part-way through - because an event is cancelled, a data feed fails or a game becomes unavailable - we will settle it fairly on the basis of the position at the time, or void it and restore members' X-Points, and we will explain which we have done and why.
+
+13.3 Engage may be unavailable from time to time for maintenance or for reasons outside our control.
+
+14. Suspension and removal
+
+14.1 We may restrict your access to Engage, remove content or results, or suspend or close your account where you breach these Engage Service Terms, the Community Guidelines or the Terms.
+
+14.2 We will act proportionately, tell you what we have done and why, and give you a route to challenge it under section 19.
+
+15. Third-party rights
+
+15.1 Names, logos, liveries, circuits, vehicles and other marks belonging to games, publishers, teams, series, competitors and rights holders remain the property of their owners and are used only where we are permitted to do so.
+
+15.2 Where we display or import content from a third-party game or platform, we do so under the arrangements we have with that party. If those arrangements end, the relevant feature may be withdrawn.
+
+16. Health and safe use
+
+16.1 If you use a simulator or play a racing game, follow the safety guidance provided by the game or hardware manufacturer, including guidance on breaks, photosensitivity and motion sickness. Do not use Engage while driving or operating machinery.
+
+17. Our liability
+
+17.1 Engage is provided for entertainment. We are responsible for loss or damage you suffer that is a foreseeable result of our breaking these terms, and not for loss that is not foreseeable.
+
+17.2 We are not responsible for the availability, accuracy or behaviour of third-party games, platforms, simulators or data feeds, or for content posted by other members, except to the extent the law makes us responsible.
+
+17.3 We do not exclude or limit liability where it would be unlawful to do so, including for death or personal injury caused by our negligence, for fraud, or for anything else that cannot lawfully be excluded.
+
+18. Your personal information
+
+18.1 We process personal data to operate Engage, including your activity, results, connected account identifiers, content and leaderboard position. Your Level and results may be visible to other members. The Privacy Notice explains the lawful bases, what is public, what is not, and your rights.
+
+19. Complaints and governing law
+
+19.1 If you disagree with a decision we take about your content, your results or your account, or you are unhappy with any part of Engage, contact us as set out in the App. We will acknowledge within 5 business days and aim to respond within 14 business days.
+
+19.2 These Engage Service Terms and any dispute arising from them are governed by the laws of Jersey, and you and Tribe submit to the jurisdiction of the courts of Jersey, in line with paragraph 1.6 of Schedule 3. If you are resident in the United Kingdom or in a member state of the European Union, you keep the benefit of any mandatory protections of the law of your country of residence which cannot be excluded by agreement, and you may bring proceedings in the courts of that country.
+
+SCHEDULE 8
+
+CONTENT SERVICE TERMS
+
+These Content Service Terms govern the Engage tab in the Kolab app. Terms used here are defined in section 1 of Schedule 3 and section 2 of Schedule 5.
+
+1. About these Content Service Terms
+
+1.1 These Content Service Terms apply to the Home tab and to any content feed, article, video, image, audio, live blog, newsletter or notification made available through the App ("Content").
+
+1.2 Content is provided by Veloce Esports Limited. It is not provided by Equals Money, and Equals Money is not responsible for it.
+
+1.3 Content is provided for information and entertainment.
+
+2. Who provides what
+
+2.1 Content in the App is provided by Veloce Esports Limited, trading as Kolab, company number 11135021, of registered office 58a Bronsart Road, London SW6 6AA United Kingdom ("Kolab"). Kolab owns that Content or holds the rights to make it available.
+
+2.2 Tribe operates the App and the platform through which Content is made available to you, including the Home feed, the selection and ordering of items, and the personalisation described in section 11.
+
+2.3 Rights in Content belong to Kolab or to its licensors. Nothing in these Content Service Terms transfers any right in Content to Tribe or to you.
+
+2.4 Rights in the App, the platform, the feed technology, and the arrangement, structure and presentation of the feeds belong to Tribe. Rights in the compilation of Content within a feed belong to [Tribe / Kolab] as set out in the agreement between them.
+
+2.5 The Kolab name and logo are trade marks of Kolab. The Tribe name and logo are trade marks of Tribe. Neither may be used without the written permission of the owner.
+
+2.6 All rights not expressly granted to you are reserved by their respective owners.
+
+3. What you may do with Content
+
+3.1 Kolab grants you, and Tribe grants you in respect of the App, a personal, non-exclusive, non-transferable, revocable licence to access and view Content through the App for your own personal, non-commercial use, for as long as your account is open.
+
+3.2 Tribe grants that licence over Content as Kolab's authorised agent, under the arrangement between Tribe and Kolab. Where that arrangement ends, the licence over Content ends with it.
+
+3.3 You may use the sharing functions provided in the App where we make that option available for a particular item, subject to section 6.
+
+3.4 This licence does not transfer any ownership to you and ends when your account closes, when the Content is withdrawn, or when the arrangement in section 3.2 ends.
+
+4. What you may not do
+
+4.1 Except as section 3 allows, or as the law permits, you may not:
+
+(a) copy, reproduce, download, record, store, adapt, translate or create derivative works from Content;
+
+(b) republish, broadcast, distribute, sell, rent, sub-licence or otherwise make Content available to anyone else, including on another platform or service;
+
+(c) frame, embed, mirror, or present Content as part of any other website, app or service;
+
+(d) remove, obscure or alter any copyright notice, credit, watermark or attribution;
+
+(e) use any robot, spider, scraper, crawler or other automated means to access, extract or index Content, or otherwise systematically extract any part of a feed;
+
+(f) circumvent any territorial restriction, access control or technical protection measure; or
+
+(g) use Content for any commercial purpose, including advertising, resale or in any product or service you offer.
+
+5. Text and data mining, and training of AI models
+
+5.1 You may not use Content for text or data mining, or to develop, train, fine-tune, evaluate or ground any machine learning or artificial intelligence model or system, whether directly or through a third party.
+
+5.2 This applies whether the Content is accessed through the App, through any interface we provide, or from any other source into which it has been copied.
+
+5.3 Kolab expressly reserves all rights in Content against text and data mining, including for the purposes of Article 4(3) of Directive (EU) 2019/790 and any equivalent provision. Tribe expressly reserves the equivalent rights in the feeds, their structure and their compilation. Both reservations are also made in machine-readable form on the relevant web properties.
+
+5.4 Nothing in this section restricts anything you are entitled to do under a mandatory exception in applicable copyright law that cannot be excluded by contract.
+
+6. Sharing Content
+
+6.1 Where an item of Content carries an in-App share option, you may share it using that option, on the platforms we list, in the form the share function produces. Sharing in that way keeps the attribution and any restriction attached to the item.
+
+6.2 Not all Content can be shared. Where an item has no share option, you may not copy, screenshot, screen record or re-upload it. This is usually because we hold the rights for use in the App only.
+
+6.3 Where you earn X-Points for sharing Content under section 4.2 of Schedule 5, X-Points are awarded only for shares made through the in-App share function on items where sharing is enabled. Copying or re-uploading Content elsewhere does not earn X-Points and may lead to action under section 14.
+
+7. Content from third parties
+
+7.1 Some Content includes material licensed by Kolab from third parties - including broadcasters, rights holders, series, teams, athletes, creators, news agencies, image libraries and music rights holders.
+
+7.2 That material remains the property of its owner, is used under the licence Kolab holds, and is credited where the licence requires it.
+
+7.3 Third-party material may be available only in certain countries, only for a limited period, and may be withdrawn without notice when a licence changes or ends. Neither Kolab nor Tribe is liable to you for withdrawing it.
+
+7.4 The presence of a team, series, event, athlete or brand in Content does not imply that they endorse or are associated with Kolab, Tribe or any product in the App, unless we expressly say so. Section 6 of Schedule 4 also applies.
+
+8. Creator and member content
+
+8.1 Some Content is created by creators, partners or other members. Their views are their own and are not ours.
+
+Creator content is published under our arrangements with that creator and may be removed at any time.
+
+8.3 Where you post, comment on or react to Content, section 10 of Schedule 7 applies to your content and section 11 of Schedule 7 applies to your conduct.
+
+9. Advertising, sponsorship and paid promotion
+
+9.1 Some Content is advertising, sponsored, or produced in partnership with a brand, and some is placed in the feed because someone has paid for it to be there.
+
+9.2 We identify that Content clearly and prominently, so that you can tell before you engage with it that it is advertising or has been paid for. We do so however the Content appears - in a feed, in a story, in a notification or in a creator post.
+
+9.3 Where a creator has been paid or given anything of value to feature a product, that is disclosed on the item itself.
+
+9.4 We do not present advertising as independent editorial content, and we do not publish or solicit fake or incentivised reviews.
+
+10. Financial promotions
+
+10.1 Some Content refers to financial products or services, including the Kolab Wallet, the card, Cashback and partner offers.
+
+10.2 That Content is Marketing Material and Schedule 4 applies to it in full, including section 3 of that Schedule. Nothing in a feed is financial, investment, tax or legal advice or a personal recommendation.
+
+10.3 Where a financial promotion requires approval before it is communicated, it is not published until that approval is in place.
+
+11. How your feed is put together
+
+11.1 Your Home feed is personalised. What you see, and the order you see it in, is influenced by information about your profile, the teams, series, creators and topics you follow, what you have viewed, reacted to or shared, and your location and device.
+
+11.2 We use automated processing to do this. The Privacy Notice explains the categories of data used, the logic involved, the lawful basis, and your rights in relation to that processing.
+
+11.3 You can change what you follow, adjust your interests and turn off personalisation in Profile > Feed. Turning personalisation off does not stop you seeing Content; it changes how it is ordered.
+
+11.4 Personalisation of Content does not affect your Level, your X-Points, your K-Points, your Cashback rate or any price you pay.
+
+12. Accuracy
+
+12.1 We take reasonable care over Content, but we do not warrant that it is accurate, complete or up to date. Sports results, timings, standings and schedules change, and the official record of an event is that published by the governing body or organiser.
+
+12.2 Content is not advice and should not be relied on as the only basis for any decision.
+
+Where we become aware that Content is materially wrong, we will correct it and, where the error is significant, say that we have.
+
+13. Availability, territory and changes
+
+13.1 We may add, change, withdraw or restrict Content at any time, including for licensing reasons, and Content available in one country may not be available in another.
+
+13.2 Access to Content is not a benefit you have paid for unless a Plan expressly includes it. Where a Plan includes specified Content and we withdraw it, section 17 of Schedule 3 applies.
+
+13.3 The App may be unavailable from time to time for maintenance or for reasons outside our control.
+
+14. Reporting content, and copyright complaints
+
+14.1 You can report Content from within the App if you think it breaches these terms, the Community Guidelines or the law. Tribe will pass reports about Content to Kolab and will tell you the outcome.
+
+14.2 If you believe Content infringes your copyright or other rights, contact rights@tribe.fan with: your contact details; identification of the work; identification of the Content complained of and where it appears; a statement that you believe the use is not authorised; and confirmation that the information you have given is accurate.
+
+14.3 Complaints about Content are referred to Kolab as the provider of that Content. Tribe may remove or disable access to Content in the App while a complaint is investigated, and will do so where it is appropriate to act quickly.
+
+14.4 We will tell you what has been done. Where Content posted by a member or creator is removed, they will be told and given a route to challenge it.
+
+14.5 Tribe or Kolab may restrict or close the account of anyone who repeatedly infringes the rights of others.
+
+15. Responsibility for Content
+
+15.1 Kolab is responsible for the Content it provides, including its accuracy, its legality and the rights needed to make it available.
+
+15.2 Tribe is responsible for the operation of the App and the platform, including how Content is presented, ordered and personalised, and for acting on reports and complaints under section 14.
+
+15.3 Neither of us excludes or limits liability where it would be unlawful to do so, including for death or personal injury caused by negligence, for fraud, or for anything else that cannot lawfully be excluded. Nothing in this section affects your statutory rights, and you may pursue whichever of us is responsible for the matter you are complaining about.
+
+16. Complaints and governing law
+
+16.1 If you are unhappy with anything in this Schedule, contact us as set out in the App. We will acknowledge within 5 business days and aim to respond within 14 business days.
+
+16.2 These Content Service Terms and any dispute arising from them are governed by the laws of Jersey, and you and Tribe submit to the jurisdiction of the courts of Jersey, in line with paragraph 1.6 of Schedule 3. If you are resident in the United Kingdom or in a member state of the European Union, you keep the benefit of any mandatory protections of the law of your country of residence which cannot be excluded by agreement, and you may bring proceedings in the courts of that country.
+
+ANNEX A
+
+Fees and Charges
+
+01092026 (applicable tier discounts applied)
+
+Amounts are shown per subscription tier. UK residents are charged in GBP (£)
+and EU residents in EUR (€). "N/A" means the item cannot be charged for that
+segment - Faster Payments is UK-only.
+
+UK RESIDENTS                            Everyday   Premium     Ultra
+------------------------------------------------------------------
+FASTER PAYMENTS IN      per payment        £0.00     £0.00     £0.00
+SEPA IN                 per payment        £0.25     £0.20     £0.13
+SWIFT IN                per payment       £13.50    £10.50     £6.50
+FASTER PAYMENTS OUT     per payment        £0.00     £0.00     £0.00
+SEPA OUT                per payment        £0.25     £0.20     £0.13
+SWIFT OUT               per payment       £15.00    £12.00     £7.50
+FREE INTERNAL TRANSFERS?                     YES       YES       YES
+FX MARGIN               per payment        1.65%     1.15%     0.65%
+ATM                 per transaction        £3.00     £2.50     £1.50
+CHARGEBACK           per chargeback       £30.00    £25.00    £15.00
+ACCOUNT FEE                 monthly        £5.00    £20.00    £50.00
+
+EU RESIDENTS                            Everyday   Premium     Ultra
+------------------------------------------------------------------
+FASTER PAYMENTS IN      per payment          N/A       N/A       N/A
+SEPA IN                 per payment        €0.30     €0.24     €0.15
+SWIFT IN                per payment       €16.20    €12.60     €7.80
+FASTER PAYMENTS OUT     per payment          N/A       N/A       N/A
+SEPA OUT                per payment        €0.30     €0.24     €0.15
+SWIFT OUT               per payment       €18.00    €14.40     €9.00
+FREE INTERNAL TRANSFERS?                     YES       YES       YES
+FX MARGIN               per payment        1.65%     1.15%     0.65%
+ATM                 per transaction        €3.60     €3.00     €1.80
+CHARGEBACK           per chargeback       €36.00    €30.00    €18.00
+ACCOUNT FEE                 monthly        €6.00    €25.00    €60.00

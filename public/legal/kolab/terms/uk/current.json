@@ -1,12 +1,9 @@
 {
   "market": "uk",
-  "version": "1.0",
-  "effectiveFrom": "2026-09-01",
-  "url": "/legal/kolab/terms/uk/1.0.txt",
-  "sha256": "8a0761519b3b6c148b1b2048678ef0c2b93824d9ee9d064976f0cf58ba99aa9f",
+  "version": "1.1",
+  "effectiveFrom": "2026-10-27",
+  "url": "/legal/kolab/terms/uk/1.1.txt",
+  "sha256": "7bc8dc1e909c76a25f682c3cedf16020d9f6fd9f45b0707904a2eccb64fd3906",
   "noticePeriodDays": 62,
-  "approval": "richard_terms_2026_09_06",
-  "supersededVersions": [
-    "1.0.superseded-20260906T233559Z.txt"
-  ]
+  "approval": "richard_faster_payments_zero_2026_10_27"
 }
