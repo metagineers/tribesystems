@@ -56,6 +56,11 @@ export default function Footer() {
               </p>
               <ul className="space-y-2.5 text-sm">
                 <li>
+                  <Link href="/terms" className="text-cream/70 hover:text-ember">
+                    App Terms &amp; Conditions
+                  </Link>
+                </li>
+                <li>
                   <Link href="/privacy" className="text-cream/70 hover:text-ember">
                     Privacy
                   </Link>
