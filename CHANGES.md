@@ -6,6 +6,7 @@ Record-only ledger for changes made outside the `kolab-spec` tracker. See
 
 | Date | Commit | Path | Instructed by / channel / source | Status |
 |---|---|---|---|---|
+| 2026-11-18 | `37d312e` | `public/legal/kolab/terms/eu/1.0.txt`, `eu/current.json` | Product owner, chat session; Richard's EEA terms (`Tribe Ltd - EEA_Retail-Combined-Terms_01.09.2026 PUBLISHED.docx`, saved 12 Nov) | TRIAGED KOL-045 |
 | 2026-10-27 | `cc637b5` | `public/legal/kolab/terms/uk/1.1.txt`, `current.json` | CFO (Richard), XynAGI Boss WhatsApp group 2026-10-27 12:37/12:41 GMT; zero Faster Payments IN and OUT fees (£0.00 for UK Everyday/Premium/Ultra), confirmed by Richard. New immutable 1.1 effective 2026-10-27; original 1.0 preserved. Catalogue source: kolab-spec `copy/strings.yaml`. | UNTRIAGED |
 | 2026-10-27 | `28145bd` | `src/app/terms`, `src/app/kolab-terms` alias, footer, sitemap; `src/app/privacy-eu/content.json` | CFO (Richard), WhatsApp XynAGI Boss group, 2026-10-27; supplied `Tribe_Ltd_UK_Retail-Combined-Terms_01MAY2026.1_PUBLISH.docx`; Richard confirmed this matches the app terms effective 2026-09-01. Per-app landing and Kolab UK page display existing versioned app terms (`current.json`); EU privacy legal name corrected as instructed. Published after Dzul approval; verified live. | UNTRIAGED |
 | 2026-09-07 | `b43a0a4` | `public/legal/kolab/terms/uk/1.0.txt` (+ superseded archive, `current.json`) | Product owner, chat session, Richard's 6 Sep terms via tech@ | TRIAGED KOL-064 |
