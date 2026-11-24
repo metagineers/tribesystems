@@ -108,7 +108,7 @@ export default function CommerceStoreShippingPage() {
             <li>A signature may be required on delivery. For this reason, we are unable to deliver to PO Box addresses or hotels.</li>
             <li>Please ensure your delivery address is entered correctly and uses standard English characters. We are unable to accept responsibility for non-delivery resulting from an incorrectly entered address.</li>
             <li>Products shipped to an address other than your card-registered address are at your own risk once delivered.</li>
-            <li>Risk in the goods passes to you upon delivery. Title to the goods passes to you once payment has been received in full, including any applicable delivery charges.</li>
+            <li>Risk in the goods passes to you upon delivery. Title to the goods passes to you once payment has been received in full, including any applicable delivery charges, and the goods have been delivered.</li>
             <li>Your statutory rights are not affected.</li>
           </ul>
         </section>
