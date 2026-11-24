@@ -1,9 +1,9 @@
 {
   "market": "eu",
-  "version": "1.0",
-  "effectiveFrom": "2026-09-01",
-  "url": "/legal/kolab/terms/eu/1.0.txt",
-  "sha256": "226b98653a73397513fd883a709a4c01adebe646c6086faca54b6252344848b0",
+  "version": "1.1",
+  "effectiveFrom": "2026-11-01",
+  "url": "/legal/kolab/terms/eu/1.1.txt",
+  "sha256": "81542d10f2fdb37d25e40fc016ec6c68817417e4a39a54b656f09ab57248e1c4",
   "noticePeriodDays": 62,
-  "approval": "richard_eea_retail_2026_11_12"
+  "approval": "richard_eea_retail_2026_11_18"
 }
