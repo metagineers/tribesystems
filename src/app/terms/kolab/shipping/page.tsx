@@ -75,12 +75,12 @@ export default function CommerceStoreShippingPage() {
           <h2 id="taxes" className="mb-7 text-2xl font-semibold">Taxes &amp; Duties</h2>
           <div className="space-y-9 leading-relaxed text-zinc-300">
             <div>
-              <h3 className="mb-3 text-lg font-semibold text-white">UK, EU &amp; USA</h3>
-              <p>All orders shipping to the United Kingdom, European Union, and United States of America have taxes and duties included at checkout. The price you see in your cart is the final price you pay — no surprises on delivery.</p>
+              <h3 className="mb-3 text-lg font-semibold text-white">UK, EU, Canada &amp; USA</h3>
+              <p>All orders shipping to the United Kingdom, European Union, Canada, and United States of America have taxes and duties included at checkout. The price you see in your cart is the final price you pay — no surprises on delivery.</p>
             </div>
             <div className="space-y-4">
               <h3 className="text-lg font-semibold text-white">Rest of the World</h3>
-              <p>Customers outside the UK, EU, and USA may be subject to local customs fees, taxes, and/or duties upon receipt of their order. These charges are the responsibility of the customer and are payable on delivery.</p>
+              <p>Customers outside the UK, EU, Canada, and USA may be subject to local customs fees, taxes, and/or duties upon receipt of their order. These charges are the responsibility of the customer and are payable on delivery.</p>
               <p>All international orders must pass through local customs inspection. We have no control over this process and are unable to estimate how long it may take.</p>
               <p>If your order hasn&apos;t arrived after 30 days, we recommend contacting your local post office to check whether it&apos;s being held. If it isn&apos;t, please email us with your order number and we&apos;ll look into it for you. If your tracking shows the parcel as delivered but you haven&apos;t received it, your local post office may be holding it.</p>
             </div>
@@ -107,7 +107,7 @@ export default function CommerceStoreShippingPage() {
           <ul className="list-disc space-y-4 pl-6 leading-relaxed text-zinc-300 marker:text-[#e06c2a]">
             <li>A signature may be required on delivery. For this reason, we are unable to deliver to PO Box addresses or hotels.</li>
             <li>Please ensure your delivery address is entered correctly and uses standard English characters. We are unable to accept responsibility for non-delivery resulting from an incorrectly entered address.</li>
-            <li>Products shipped to an address other than your card-registered address are sent at your own risk.</li>
+            <li>Products shipped to an address other than your card-registered address are at your own risk once delivered.</li>
             <li>Risk in the goods passes to you upon delivery. Title to the goods passes to you once payment has been received in full, including any applicable delivery charges.</li>
             <li>Your statutory rights are not affected.</li>
           </ul>
