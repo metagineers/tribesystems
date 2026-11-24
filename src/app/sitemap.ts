@@ -2,7 +2,7 @@ import type { MetadataRoute } from "next";
 import { site } from "@/lib/content";
 
 export default function sitemap(): MetadataRoute.Sitemap {
-  const routes = ["", "/platform", "/solutions", "/about", "/terms", "/terms/kolab/uk", "/privacy", "/privacy-eu", "/privacy-uk", "/prize_draw", "/prize_draw/results"];
+  const routes = ["", "/platform", "/solutions", "/about", "/terms", "/terms/kolab/uk", "/terms/kolab/shipping", "/privacy", "/privacy-eu", "/privacy-uk", "/prize_draw", "/prize_draw/results"];
   return routes.map((path) => ({
     url: `${site.domain}${path}`,
     lastModified: new Date(),

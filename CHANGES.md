@@ -6,6 +6,7 @@ Record-only ledger for changes made outside the `kolab-spec` tracker. See
 
 | Date | Commit | Path | Instructed by / channel / source | Status |
 |---|---|---|---|---|
+| 2026-11-24 | `pending review` | `src/app/terms/kolab/shipping`, `src/app/terms`, sitemap | CFO (Richard), XynAGI Boss WhatsApp group, 2026-11-24; source: Richard's shipping/delivery copy in chat, with placement under App Terms requested. Draft only; publication held pending alignment with Shop Service Terms Schedule 6 §4.2 (Canada taxes/duties) and §8.1 (risk before receipt) in both UK and EU editions. | UNTRIAGED |
 | 2026-11-24 | `afe5b3c` | `public/legal/kolab/terms/eu/1.1.txt`, `eu/current.json` | Product owner, chat session; Richard's 18 Nov EEA terms (`Tribe - EEA_Retail-Combined-Terms 18112026.docx`, saved 18 Nov 15:17 UTC), stray space in Annex A removed on his instruction (email 19 Nov 12:15 UTC). 1.0 unchanged | TRIAGED KOL-045 |
 | 2026-11-18 | `37d312e` | `public/legal/kolab/terms/eu/1.0.txt`, `eu/current.json` | Product owner, chat session; Richard's EEA terms (`Tribe Ltd - EEA_Retail-Combined-Terms_01.09.2026 PUBLISHED.docx`, saved 12 Nov) | TRIAGED KOL-045 |
 | 2026-10-27 | `cc637b5` | `public/legal/kolab/terms/uk/1.1.txt`, `current.json` | CFO (Richard), XynAGI Boss WhatsApp group 2026-10-27 12:37/12:41 GMT; zero Faster Payments IN and OUT fees (£0.00 for UK Everyday/Premium/Ultra), confirmed by Richard. New immutable 1.1 effective 2026-10-27; original 1.0 preserved. Catalogue source: kolab-spec `copy/strings.yaml`. | UNTRIAGED |
